@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://bbohling.micro.blog/2017/09/28/its-always-a.html",
+	      	
+			"content_html": "<p>It’s always a good day when you can reference <a href=\"https://www.youtube.com/watch?v=V8h8snfYidg\">By the Power of Greyskull</a> in a normal dialog with your co-workers.</p>\n",
+			"date_published": "2017-09-28T11:12:00-07:00",
+			"url": "http://micro.brandonbohling.com/2017/09/28/its-always-a.html"
+		},
+		
+		{
 			"id": "http://bbohling.micro.blog/2017/09/27/decent-coffee-will.html",
 	      	
 			"content_html": "<p><a href=\"https://apple.news/A-9BDol3sQ8yTt3P3Hc44IA\">Decent Coffee Will Be Hard to Find by 2050</a> - Noooooooooo!</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Cannot believe how much grippier the iPhone 8 Plus is compared to the iPhone 7 Plus. Night and day difference. Never used a case with 7 Plus, but REALLY don’t need a case now.</p>\n",
 			"date_published": "2017-09-22T12:47:00-07:00",
 			"url": "http://micro.brandonbohling.com/2017/09/22/cannot-believe-how.html"
-		},
-		
-		{
-			"id": "http://bbohling.micro.blog/2017/09/22/no-chance-i.html",
-	      	
-			"content_html": "<p>No chance I was waiting for the iPhone X…which I will likely regret when Denise gets her’s in a couple of months.</p>\n\n<p><img src=\"http://bbohling.micro.blog/uploads/2017/6b3e886e6f.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2017-09-22T11:24:00-07:00",
-			"url": "http://micro.brandonbohling.com/2017/09/22/no-chance-i.html"
 		}
 		
 	]
