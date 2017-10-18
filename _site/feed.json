@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://bbohling.micro.blog/2017/10/18/omg-omg-omg.html",
+	      	
+			"content_html": "<p>OMG OMG OMG</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2017/347fd14a66.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2017-10-18T11:29:00-07:00",
+			"url": "http://micro.brandonbohling.com/2017/10/18/omg-omg-omg.html"
+		},
+		
+		{
 			"id": "http://bbohling.micro.blog/2017/10/18/definitely-excited-to.html",
 	      	
 			"content_html": "<p>Definitely excited to try out the new cloud-based Lightroom CC, but doubt my catalog of 131,874 photos (and some videos) will fit on the 1TB allotted space.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Series 3 aluminum vs. Series 0 stainless steel. BTW…damn hard to focus and shoot one-handed before either watch face goes dark!</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2017/c0ec3d3bd8.jpg\" width=\"599\" height=\"600\" /></p>\n",
 			"date_published": "2017-09-25T22:33:00-07:00",
 			"url": "http://micro.brandonbohling.com/2017/09/25/series-aluminum-vs.html"
-		},
-		
-		{
-			"id": "http://bbohling.micro.blog/2017/09/26/the-cellular-call.html",
-	      	
-			"content_html": "<p>The cellular call quality from the Watch Series 3 is unfrigginbelievable. </p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2017/6efb557670.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2017-09-25T18:56:00-07:00",
-			"url": "http://micro.brandonbohling.com/2017/09/25/the-cellular-call.html"
 		}
 		
 	]
