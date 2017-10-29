@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://bbohling.micro.blog/2017/10/29/just-bought-tickets.html",
+	      	
+			"content_html": "<p>Just bought tickets for the family to see one of the greats, <a href=\"http://www.portland5.com/arlene-schnitzer-concert-hall/events/bill-murray-jan-vogler-friends-new-worlds\">Bill Murray, at the Arlene Schnitzer Concert Hall in Portland, OR</a>.</p>\n",
+			"date_published": "2017-10-29T08:29:00-07:00",
+			"url": "http://micro.brandonbohling.com/2017/10/29/just-bought-tickets.html"
+		},
+		
+		{
 			"id": "http://bbohling.micro.blog/2017/10/20/initial-drone-runnothing.html",
 	      	
 			"content_html": "<p>Initial Drone Run…nothing fancy, I’m a total newbie.\n<a href=\"https://vimeo.com/239194241\">vimeo.com/239194241</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>One of those days that I need to set this on repeat all day. #namethesong </p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2017/8845c60d65.jpg\" width=\"599\" height=\"600\" /></p>\n",
 			"date_published": "2017-09-29T08:34:00-07:00",
 			"url": "http://micro.brandonbohling.com/2017/09/29/one-of-those.html"
-		},
-		
-		{
-			"id": "http://bbohling.micro.blog/2017/09/28/its-always-a.html",
-	      	
-			"content_html": "<p>It’s always a good day when you can reference <a href=\"https://www.youtube.com/watch?v=V8h8snfYidg\">By the Power of Greyskull</a> in a normal dialog with your co-workers.</p>\n",
-			"date_published": "2017-09-28T11:12:00-07:00",
-			"url": "http://micro.brandonbohling.com/2017/09/28/its-always-a.html"
 		}
 		
 	]
