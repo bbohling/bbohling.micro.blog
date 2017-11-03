@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://bbohling.micro.blog/2017/11/03/sad-truth-httpstwittercomiamdevloperstatus.html",
+	      	
+			"content_html": "<p>Sad truth: <a href=\"https://twitter.com/iamdevloper/status/926458505355235328\">twitter.com/iamdevlop…</a></p>\n",
+			"date_published": "2017-11-03T07:57:00-07:00",
+			"url": "http://micro.brandonbohling.com/2017/11/03/sad-truth-httpstwittercomiamdevloperstatus.html"
+		},
+		
+		{
 			"id": "http://bbohling.micro.blog/2017/10/29/just-bought-tickets.html",
 	      	
 			"content_html": "<p>Just bought tickets for the family to see one of the greats, <a href=\"http://www.portland5.com/arlene-schnitzer-concert-hall/events/bill-murray-jan-vogler-friends-new-worlds\">Bill Murray, at the Arlene Schnitzer Concert Hall in Portland, OR</a>.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Love it when my parents bring bounty from their garden</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2017/8994367204.jpg\" width=\"599\" height=\"600\" /></p>\n",
 			"date_published": "2017-10-12T19:08:00-07:00",
 			"url": "http://micro.brandonbohling.com/2017/10/12/love-it-when.html"
-		},
-		
-		{
-			"id": "http://bbohling.micro.blog/2017/09/29/one-of-those.html",
-	      	
-			"content_html": "<p>One of those days that I need to set this on repeat all day. #namethesong </p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2017/8845c60d65.jpg\" width=\"599\" height=\"600\" /></p>\n",
-			"date_published": "2017-09-29T08:34:00-07:00",
-			"url": "http://micro.brandonbohling.com/2017/09/29/one-of-those.html"
 		}
 		
 	]
