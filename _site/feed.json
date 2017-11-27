@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://bbohling.micro.blog/2017/11/27/picked-up-my.html",
+	      	
+			"content_html": "<p>Picked up my new gravel bike this weekend; a Salsa Cutthroat. Maybe my favorite feature is the <a href=\"https://en.wikipedia.org/wiki/Tour_Divide\">Tour Divide</a> map on the downtube. </p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2017/bfe2196fbc.jpg\" width=\"450\" height=\"600\" /></p>\n",
+			"date_published": "2017-11-27T10:05:00-07:00",
+			"url": "http://micro.brandonbohling.com/2017/11/27/picked-up-my.html"
+		},
+		
+		{
 			"id": "http://bbohling.micro.blog/2017/11/25/black-fridayhttpsvimeocom.html",
 	      	
 			"content_html": "<p><a href=\"https://vimeo.com/244408548\">Black Friday</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>OMG OMG OMG</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2017/347fd14a66.jpg\" width=\"600\" height=\"599\" /></p>\n",
 			"date_published": "2017-10-18T11:29:00-07:00",
 			"url": "http://micro.brandonbohling.com/2017/10/18/omg-omg-omg.html"
-		},
-		
-		{
-			"id": "http://bbohling.micro.blog/2017/10/18/definitely-excited-to.html",
-	      	
-			"content_html": "<p>Definitely excited to try out the new cloud-based Lightroom CC, but doubt my catalog of 131,874 photos (and some videos) will fit on the 1TB allotted space.</p>\n",
-			"date_published": "2017-10-18T11:18:00-07:00",
-			"url": "http://micro.brandonbohling.com/2017/10/18/definitely-excited-to.html"
 		}
 		
 	]
