@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-09-25 22:33 -0700
+date: 2017-09-25 21:33 -0800
 guid: http://bbohling.micro.blog/2017/09/26/series-aluminum-vs.html
 ---
 Series 3 aluminum vs. Series 0 stainless steel. BTW...damn hard to focus and shoot one-handed before either watch face goes dark!
