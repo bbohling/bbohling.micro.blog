@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-06-03 15:06 -0700
+date: 2017-06-03 14:06 -0800
 guid: http://bbohling.micro.blog/2017/06/03/that-time-of.html
 ---
 That time of year
