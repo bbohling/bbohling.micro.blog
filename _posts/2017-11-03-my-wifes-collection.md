@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-11-03 16:45 -0700
+date: 2017-11-03 15:45 -0800
 guid: http://bbohling.micro.blog/2017/11/03/my-wifes-collection.html
 ---
 My wife’s collection: iPhone 7 Plus, iPhone X, iPhone 6S, and iPhone 5. Didn’t realize how small the iPhone X was until I held it and then compared to the various sizes.
