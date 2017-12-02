@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-09-22 19:09 -0700
+date: 2017-09-22 18:09 -0800
 guid: http://bbohling.micro.blog/2017/09/23/apparently-the-black.html
 ---
 Apparently the black outline is the iOS 11 way of saying, “get with the times grandpa”
