@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-09-22 11:24 -0700
+date: 2017-09-22 10:24 -0800
 guid: http://bbohling.micro.blog/2017/09/22/no-chance-i.html
 ---
 No chance I was waiting for the iPhone X...which I will likely regret when Denise gets her's in a couple of months.
