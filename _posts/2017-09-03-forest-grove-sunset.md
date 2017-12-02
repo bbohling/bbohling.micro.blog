@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-09-02 20:17 -0700
+date: 2017-09-02 19:17 -0800
 guid: http://bbohling.micro.blog/2017/09/03/forest-grove-sunset.html
 ---
 Forest Grove Sunset
