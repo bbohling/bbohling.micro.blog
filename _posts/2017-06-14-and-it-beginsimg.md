@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-06-14 15:49 -0700
+date: 2017-06-14 14:49 -0800
 guid: http://bbohling.micro.blog/2017/06/14/and-it-beginsimg.html
 ---
 And it begins
