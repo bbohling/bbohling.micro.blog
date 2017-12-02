@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-06-16 08:28 -0700
+date: 2017-06-16 07:28 -0800
 guid: http://bbohling.micro.blog/2017/06/16/my-least-favorite.html
 ---
 My least favorite thing about the new MBP. Bring back the MagSafe!
