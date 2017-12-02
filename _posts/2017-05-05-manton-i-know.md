@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-05-05 08:55 -0700
+date: 2017-05-05 07:55 -0800
 guid: http://bbohling.micro.blog/2017/05/05/manton-i-know.html
 ---
 @manton, I know you are swamped, but is it possible to get a high-res version of  the Micro.blog icon logo?  I used Fluid to create a pseudo app, but no one wants to see this pixelated icon all day :)
