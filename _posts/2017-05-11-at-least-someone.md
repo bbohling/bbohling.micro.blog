@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-05-11 10:30 -0700
+date: 2017-05-11 09:30 -0800
 guid: http://bbohling.micro.blog/2017/05/11/at-least-someone.html
 ---
 At least someone is sad that I am leaving 
