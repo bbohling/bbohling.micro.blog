@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-06-19 09:21 -0700
+date: 2017-06-19 08:21 -0800
 guid: http://bbohling.micro.blog/2017/06/19/well-crapi-seem.html
 ---
 Well crap...I seem to be experiencing a keyboard issue with new MBP like many others have reported. My "X" key works about 70% of the time.
