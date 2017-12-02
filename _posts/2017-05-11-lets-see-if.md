@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-05-10 17:39 -0700
+date: 2017-05-10 16:39 -0800
 guid: http://bbohling.micro.blog/2017/05/11/lets-see-if.html
 ---
 Let's see if micro.blog handles the photo this time...
