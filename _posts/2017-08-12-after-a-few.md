@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-08-12 12:02 -0700
+date: 2017-08-12 11:02 -0800
 guid: http://bbohling.micro.blog/2017/08/12/after-a-few.html
 ---
 After a few hours in the sun it is time to hydrate
