@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-07-05 13:43 -0700
+date: 2017-07-05 12:43 -0800
 guid: http://bbohling.micro.blog/2017/07/05/titletowns-green-is.html
 ---
 Titletown's Green 19 is the first IPA outside of Oregon that I've liked
