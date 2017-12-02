@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-06-28 16:51 -0700
+date: 2017-06-28 15:51 -0800
 guid: http://bbohling.micro.blog/2017/06/28/best-news-everimg.html
 ---
 Best news ever
