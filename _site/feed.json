@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://bbohling.micro.blog/2017/12/29/for-the-most.html",
+	      	
+			"content_html": "<p>2017, for the most part, proved to be a better cycling year than 2016: <a href=\"https://2017.strava.com/en-us/videos/246b2dce1a37d2bdc6cc6d9e909eef04da35fd81/\">2017.strava.com/en-us/vid…</a></p>\n",
+			"date_published": "2017-12-28T19:52:00-08:00",
+			"url": "https://micro.brandonbohling.com/2017/12/28/for-the-most.html"
+		},
+		
+		{
 			"id": "http://bbohling.micro.blog/2017/12/27/little-icy-in.html",
 	      	
 			"content_html": "<p>Little icy in the hills today</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2017/3ea9dc006f.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p><a href=\"https://vimeo.com/244408548\">Black Friday</a></p>\n",
 			"date_published": "2017-11-24T18:38:00-08:00",
 			"url": "https://micro.brandonbohling.com/2017/11/24/black-fridayhttpsvimeocom.html"
-		},
-		
-		{
-			"id": "http://bbohling.micro.blog/2017/11/25/thanksgiving-at-the.html",
-	      	
-			"content_html": "<p><a href=\"https://vimeo.com/244277487\">Thanksgiving at the Beach</a></p>\n",
-			"date_published": "2017-11-24T18:33:00-08:00",
-			"url": "https://micro.brandonbohling.com/2017/11/24/thanksgiving-at-the.html"
 		}
 		
 	]
