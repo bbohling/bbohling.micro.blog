@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://bbohling.micro.blog/2018/01/04/snuck-out-of.html",
+	      	
+			"content_html": "<p>Snuck out of work a bit early to get in a ride. If you squint, you can see Mt. Hood in the background.</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/cb8cad5df6.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-01-03T19:01:00-08:00",
+			"url": "https://micro.brandonbohling.com/2018/01/03/snuck-out-of.html"
+		},
+		
+		{
 			"id": "http://bbohling.micro.blog/2018/01/01/this-years-bragging.html",
 	      	
 			"content_html": "<p>This year’s bragging rights. Better than 2016, but not 2011, 2013, 2014, or 2015. However, spent a bunch more time with the family, which is a big win.</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/3dfbf8d42d.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Finally able to take the new ride out yesterday.</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2017/7f751ac335.jpg\" width=\"600\" height=\"599\" /></p>\n",
 			"date_published": "2017-12-02T09:59:00-08:00",
 			"url": "https://micro.brandonbohling.com/2017/12/02/finally-able-to.html"
-		},
-		
-		{
-			"id": "http://bbohling.micro.blog/2017/11/27/picked-up-my.html",
-	      	
-			"content_html": "<p>Picked up my new gravel bike this weekend; a Salsa Cutthroat. Maybe my favorite feature is the <a href=\"https://en.wikipedia.org/wiki/Tour_Divide\">Tour Divide</a> map on the downtube. </p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2017/bfe2196fbc.jpg\" width=\"450\" height=\"600\" /></p>\n",
-			"date_published": "2017-11-27T09:05:00-08:00",
-			"url": "https://micro.brandonbohling.com/2017/11/27/picked-up-my.html"
 		}
 		
 	]
