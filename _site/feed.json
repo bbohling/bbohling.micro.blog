@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://bbohling.micro.blog/2018/01/08/favorites-from-old.html",
+	      	
+			"content_html": "<p>Favorites from (old post) Fabulous macOS Tips &amp; Tricks:</p>\n\n<pre><code>•\tIn Finder, press Shift+Cmd+. to toggle hidden files\n•\tPress the Option key in a file context menu to get the ability to copy the path of the file\n</code></pre>\n",
+			"date_published": "2018-01-08T13:06:00-08:00",
+			"url": "https://micro.brandonbohling.com/2018/01/08/favorites-from-old.html"
+		},
+		
+		{
 			"id": "http://bbohling.micro.blog/2018/01/05/a-meeting-free.html",
 	      	
 			"content_html": "<p>A meeting free day. Liking 2018 better than 2017 already!</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Ellie had a rough day today</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2017/66957ddf3b.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-12-10T20:42:00-08:00",
 			"url": "https://micro.brandonbohling.com/2017/12/10/ellie-had-a.html"
-		},
-		
-		{
-			"id": "http://bbohling.micro.blog/2017/12/11/just-me-and.html",
-	      	
-			"content_html": "<p>Just me and some gravel on a cold day of riding.</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2017/c3c33192c1.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-12-10T17:33:00-08:00",
-			"url": "https://micro.brandonbohling.com/2017/12/10/just-me-and.html"
 		}
 		
 	]
