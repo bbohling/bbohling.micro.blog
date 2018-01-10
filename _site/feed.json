@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://bbohling.micro.blog/2018/01/10/currently-reading-dan.html",
+	      	
+			"content_html": "<p>Currently reading Dan Brown’s latest, Origin. Usually I can whip through those like a season of Stranger Things…not this time. 📚</p>\n",
+			"date_published": "2018-01-09T17:39:00-08:00",
+			"url": "https://micro.brandonbohling.com/2018/01/09/currently-reading-dan.html"
+		},
+		
+		{
 			"id": "http://bbohling.micro.blog/2018/01/08/since-my-link.html",
 	      	
 			"content_html": "<p>Since my link got gobbled up between post and get (read): Fabulous macOS Tips &amp; Tricks - <a href=\"https://blog.sindresorhus.com/macos-tips-tricks-13046cf377f8\">blog.sindresorhus.com/macos-tip…</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Cold but gorgeous day to ride on some logging roads</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2017/528dbc446e.jpg\" width=\"600\" height=\"599\" /></p>\n",
 			"date_published": "2017-12-21T17:02:00-08:00",
 			"url": "https://micro.brandonbohling.com/2017/12/21/cold-but-gorgeous.html"
-		},
-		
-		{
-			"id": "http://bbohling.micro.blog/2017/12/16/i-cant-quite.html",
-	      	
-			"content_html": "<p>I can’t quite put my finger on it, but I much prefer Futsal over outdoor soccer.</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2017/4301268bb6.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-12-16T13:15:00-08:00",
-			"url": "https://micro.brandonbohling.com/2017/12/16/i-cant-quite.html"
 		}
 		
 	]
