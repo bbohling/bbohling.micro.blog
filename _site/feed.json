@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://bbohling.micro.blog/2018/01/24/great-article-finding.html",
+	      	
+			"content_html": "<p>Great article, <a href=\"https://bikeportland.org/2018/01/22/finding-heaven-on-the-hell-of-the-north-plains-265332\">Finding heaven on the Hell of the North Plains</a>, on a ride I did last weekend. Did a very similar route two weeks prior as well. Love the gravel rides we do around here! 🚲</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/aece47e59e.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-01-23T22:40:00-08:00",
+			"url": "https://micro.brandonbohling.com/2018/01/23/great-article-finding.html"
+		},
+		
+		{
 			"id": "http://bbohling.micro.blog/2018/01/23/so-i-guess.html",
 	      	
 			"content_html": "<p>So I guess it’s raining this week</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/3c73dc6e0e.jpg\" width=\"599\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>A meeting free day. Liking 2018 better than 2017 already!</p>\n",
 			"date_published": "2018-01-04T17:33:00-08:00",
 			"url": "https://micro.brandonbohling.com/2018/01/04/a-meeting-free.html"
-		},
-		
-		{
-			"id": "http://bbohling.micro.blog/2018/01/04/snuck-out-of.html",
-	      	
-			"content_html": "<p>Snuck out of work a bit early to get in a ride. If you squint, you can see Mt. Hood in the background.</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/cb8cad5df6.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-01-03T19:01:00-08:00",
-			"url": "https://micro.brandonbohling.com/2018/01/03/snuck-out-of.html"
 		}
 		
 	]
