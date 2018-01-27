@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://bbohling.micro.blog/2018/01/27/friday-night-boy.html",
+	      	
+			"content_html": "<p>Friday night. Boy is gaming with a friend. Wife is gone. I’m coding with Cobra (movie) playing in the background. #itcouldbeworse</p>\n",
+			"date_published": "2018-01-26T17:26:00-08:00",
+			"url": "https://micro.brandonbohling.com/2018/01/26/friday-night-boy.html"
+		},
+		
+		{
 			"id": "http://bbohling.micro.blog/2018/01/25/photo-story-using.html",
 	      	
 			"title": "Photo Story Using Sunlit (Test Post)",
@@ -77,14 +85,6 @@
 			"content_html": "<p>Since my link got gobbled up between post and get (read): Fabulous macOS Tips &amp; Tricks - <a href=\"https://blog.sindresorhus.com/macos-tips-tricks-13046cf377f8\">blog.sindresorhus.com/macos-tip…</a></p>\n",
 			"date_published": "2018-01-08T13:12:00-08:00",
 			"url": "https://micro.brandonbohling.com/2018/01/08/since-my-link.html"
-		},
-		
-		{
-			"id": "http://bbohling.micro.blog/2018/01/08/favorites-from-old.html",
-	      	
-			"content_html": "<p>Favorites from (old post) Fabulous macOS Tips &amp; Tricks:</p>\n\n<pre><code>•\tIn Finder, press Shift+Cmd+. to toggle hidden files\n•\tPress the Option key in a file context menu to get the ability to copy the path of the file\n</code></pre>\n",
-			"date_published": "2018-01-08T13:06:00-08:00",
-			"url": "https://micro.brandonbohling.com/2018/01/08/favorites-from-old.html"
 		}
 		
 	]
