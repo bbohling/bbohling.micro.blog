@@ -1,11 +1,34 @@
-email: your-email@domain.com
+# # # # # # # #
+#   K i k o   #
+# # # # # # # #
 
-exclude:
-  - Gemfile
-  - Gemfile.lock
+# - markdown: kramdown
+
+# Navigation
+nav:
+  - # - name:           "About"
+    href:           "/about/"
+  - # - name:           "RSS"
+    href:           "/feed.xml"
+
+# Sass
 sass:
-  sass_dir: assets/stylesheets
-  style: :compressed
+  style:            :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
 
 title: "Brandon Bohling"
 tagline: ""
