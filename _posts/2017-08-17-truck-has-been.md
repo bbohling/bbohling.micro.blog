@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-08-17 11:04 -0800
 guid: http://bbohling.micro.blog/2017/08/17/truck-has-been.html
 ---
