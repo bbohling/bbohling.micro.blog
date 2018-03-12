@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-05-10 09:38 -0800
 guid: http://bbohling.micro.blog/2017/05/10/apparently-im-a.html
 ---
