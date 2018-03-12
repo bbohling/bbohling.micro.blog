@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-11-03 15:45 -0800
 guid: http://bbohling.micro.blog/2017/11/03/my-wifes-collection.html
 ---
