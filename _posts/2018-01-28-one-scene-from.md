@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-01-27 22:19 -0800
 guid: http://bbohling.micro.blog/2018/01/28/one-scene-from.html
 ---
