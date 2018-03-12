@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-08-29 08:13 -0800
 guid: http://bbohling.micro.blog/2017/08/29/lots-of-ash.html
 ---
