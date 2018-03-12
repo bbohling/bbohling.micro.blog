@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-12-02 09:59 -0800
 guid: http://bbohling.micro.blog/2017/12/02/finally-able-to.html
 ---
