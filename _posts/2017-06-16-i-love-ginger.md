@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-06-15 20:23 -0800
 guid: http://bbohling.micro.blog/2017/06/16/i-love-ginger.html
 ---
