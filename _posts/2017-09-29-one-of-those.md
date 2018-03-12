@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-09-29 07:34 -0800
 guid: http://bbohling.micro.blog/2017/09/29/one-of-those.html
 ---
