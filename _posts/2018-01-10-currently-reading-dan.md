@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-01-09 17:39 -0800
 guid: http://bbohling.micro.blog/2018/01/10/currently-reading-dan.html
 ---
