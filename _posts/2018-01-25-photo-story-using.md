@@ -2,6 +2,7 @@
 layout: post
 title: "Photo Story Using Sunlit (Test Post)"
 microblog: false
+audio: 
 date: 2018-01-24 18:35 -0800
 guid: http://bbohling.micro.blog/2018/01/25/photo-story-using.html
 ---
