@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-07-24 12:29 -0800
 guid: http://bbohling.micro.blog/2017/07/24/seems-like-it.html
 ---
