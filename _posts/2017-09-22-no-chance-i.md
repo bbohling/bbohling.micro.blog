@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-09-22 10:24 -0800
 guid: http://bbohling.micro.blog/2017/09/22/no-chance-i.html
 ---
