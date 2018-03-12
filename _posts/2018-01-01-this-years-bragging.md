@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-12-31 19:41 -0800
 guid: http://bbohling.micro.blog/2018/01/01/this-years-bragging.html
 ---
