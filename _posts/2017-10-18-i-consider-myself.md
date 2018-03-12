@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-10-17 18:59 -0800
 guid: http://bbohling.micro.blog/2017/10/18/i-consider-myself.html
 ---
