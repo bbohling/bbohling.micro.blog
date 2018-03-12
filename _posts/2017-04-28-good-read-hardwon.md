@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-04-27 17:57 -0800
 guid: http://bbohling.micro.blog/2017/04/28/good-read-hardwon.html
 ---
