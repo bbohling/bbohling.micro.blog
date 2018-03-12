@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-05-10 10:34 -0800
 guid: http://bbohling.micro.blog/2017/05/10/manton-still-dont.html
 ---
