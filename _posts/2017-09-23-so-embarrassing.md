@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-09-23 11:12 -0800
 guid: http://bbohling.micro.blog/2017/09/23/so-embarrassing.html
 ---
