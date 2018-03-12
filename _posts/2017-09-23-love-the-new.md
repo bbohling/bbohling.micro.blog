@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-09-23 09:01 -0800
 guid: http://bbohling.micro.blog/2017/09/23/love-the-new.html
 ---
