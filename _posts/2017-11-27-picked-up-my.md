@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-11-27 09:05 -0800
 guid: http://bbohling.micro.blog/2017/11/27/picked-up-my.html
 ---
