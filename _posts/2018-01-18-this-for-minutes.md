@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-01-18 10:27 -0800
 guid: http://bbohling.micro.blog/2018/01/18/this-for-minutes.html
 ---
