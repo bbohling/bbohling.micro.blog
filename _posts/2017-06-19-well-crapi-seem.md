@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-06-19 08:21 -0800
 guid: http://bbohling.micro.blog/2017/06/19/well-crapi-seem.html
 ---
