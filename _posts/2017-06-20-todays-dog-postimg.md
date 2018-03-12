@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-06-20 05:10 -0800
 guid: http://bbohling.micro.blog/2017/06/20/todays-dog-postimg.html
 ---
