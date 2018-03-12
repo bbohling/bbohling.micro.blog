@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-01-14 13:20 -0800
 guid: http://bbohling.micro.blog/2018/01/14/the-reason-we.html
 ---
