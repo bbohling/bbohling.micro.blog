@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://bbohling.micro.blog/2018/03/28/those-people-putting.html",
+	      	
+			"content_html": "<p>Those people putting a video or two together (for fun) from lots of footage…what are you doing with the <em>raw</em> footage? It’s similar to what I do with my RAW photos, but I’m second guessing myself now.</p>\n",
+			"date_published": "2018-03-28T06:36:00-08:00",
+			"url": "https://micro.brandonbohling.com/2018/03/28/those-people-putting.html"
+		},
+		
+		{
 			"id": "http://bbohling.micro.blog/2018/03/28/spent-the-evening.html",
 	      	
 			"content_html": "<p>Spent the evening playing with AWS Lamba. Roles/Policies gave me the most grief. Grrrr.</p>\n",
@@ -203,14 +211,6 @@
 			"content_html": "<p>Who’s up for some bike talk on micro.blog? 🚲</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/d27445fc06.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-01-21T21:34:00-08:00",
 			"url": "https://micro.brandonbohling.com/2018/01/21/whos-up-for.html"
-		},
-		
-		{
-			"id": "http://bbohling.micro.blog/2018/01/18/this-for-minutes.html",
-	      	
-			"content_html": "<p>This for 30+ minutes. Good thing it is just a VM window so I can actually work…on macOS.</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/3c6b686c30.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-01-18T10:27:00-08:00",
-			"url": "https://micro.brandonbohling.com/2018/01/18/this-for-minutes.html"
 		}
 		
 	]
