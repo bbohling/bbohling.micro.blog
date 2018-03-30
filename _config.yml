@@ -51,3 +51,4 @@ paginate: 20
 paginate_path: "/page/:num/"
 timezone: "US/Pacific-New"
 site_id: "691"
+gems: ["jekyll-paginate"]
