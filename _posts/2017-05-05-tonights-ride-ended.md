@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-05-04 20:36 -0800
+date: 2017-05-04 21:36 -0700
 guid: http://bbohling.micro.blog/2017/05/05/tonights-ride-ended.html
 ---
 Tonight's ride ended prematurely 
