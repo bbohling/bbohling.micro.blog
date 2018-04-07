@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-12-26 20:45 -0800
+date: 2017-12-26 21:45 -0700
 guid: http://bbohling.micro.blog/2017/12/27/little-icy-in.html
 ---
 Little icy in the hills today
