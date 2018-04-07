@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-05-28 10:28 -0800
+date: 2017-05-28 11:28 -0700
 guid: http://bbohling.micro.blog/2017/05/28/cool-fix-it.html
 ---
 Cool "fix it stations" along a local bike trail
