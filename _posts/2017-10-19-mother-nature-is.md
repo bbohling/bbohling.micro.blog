@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-10-19 06:50 -0800
+date: 2017-10-19 07:50 -0700
 guid: http://bbohling.micro.blog/2017/10/19/mother-nature-is.html
 ---
 Mother Nature is testing my patience for an initial drone flight.
