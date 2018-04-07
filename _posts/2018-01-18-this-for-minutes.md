@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-01-18 10:27 -0800
+date: 2018-01-18 11:27 -0700
 guid: http://bbohling.micro.blog/2018/01/18/this-for-minutes.html
 ---
 This for 30+ minutes. Good thing it is just a VM window so I can actually work...on macOS.
