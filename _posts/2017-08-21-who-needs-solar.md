@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-08-21 09:28 -0800
+date: 2017-08-21 10:28 -0700
 guid: http://bbohling.micro.blog/2017/08/21/who-needs-solar.html
 ---
 Who needs solar glasses or expensive camera gear?
