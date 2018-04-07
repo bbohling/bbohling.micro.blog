@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-06 16:10 -0800
+date: 2018-04-06 17:10 -0700
 guid: http://bbohling.micro.blog/2018/04/07/another-tasty-ginger.html
 ---
 Another tasty ginger beer...with bourbon (like Buffalo Trace)
