@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-03 06:20 -0800
+date: 2018-04-03 07:20 -0700
 guid: http://bbohling.micro.blog/2018/04/03/who-remembers-geocaching.html
 ---
 Who remembers geocaching with one of these high-tech gadgets?
