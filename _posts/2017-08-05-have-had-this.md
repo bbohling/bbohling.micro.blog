@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-08-04 17:03 -0800
+date: 2017-08-04 18:03 -0700
 guid: http://bbohling.micro.blog/2017/08/05/have-had-this.html
 ---
 Have had this air quality alert all week. Was suppose to end tonight but looks like they extended it. #missingtheoutdoors
