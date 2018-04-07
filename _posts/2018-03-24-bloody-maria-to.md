@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-24 10:01 -0800
+date: 2018-03-24 11:01 -0700
 guid: http://bbohling.micro.blog/2018/03/24/bloody-maria-to.html
 ---
 Bloody Maria to wash down a breakfast burrito from Taco Pedaler. An awesome way to start the weekend.
