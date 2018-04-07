@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-07-21 12:07 -0800
+date: 2017-07-21 13:07 -0700
 guid: http://bbohling.micro.blog/2017/07/21/such-a-graceful.html
 ---
 Such a graceful napper 
