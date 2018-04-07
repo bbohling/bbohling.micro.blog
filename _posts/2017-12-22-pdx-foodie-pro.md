@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-12-22 12:11 -0800
+date: 2017-12-22 13:11 -0700
 guid: http://bbohling.micro.blog/2017/12/22/pdx-foodie-pro.html
 ---
 PDX Foodie Pro Tip: get the Portuguese Fried Rice at Cheryl’s on 12th with their ranchero sauce.
