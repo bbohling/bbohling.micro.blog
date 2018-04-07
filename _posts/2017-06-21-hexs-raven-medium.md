@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-06-21 07:51 -0800
+date: 2017-06-21 08:51 -0700
 guid: http://bbohling.micro.blog/2017/06/21/hexs-raven-medium.html
 ---
 Hex's Raven Medium DSLR Backpack states it has tripod straps...I have a better use: coffee straps. // @hex_brand
