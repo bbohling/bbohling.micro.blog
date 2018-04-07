@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-04-28 08:56 -0800
+date: 2017-04-28 09:56 -0700
 guid: http://bbohling.micro.blog/2017/04/28/its-time-to.html
 ---
 It's time to work
