@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-12-10 20:42 -0800
+date: 2017-12-10 21:42 -0700
 guid: http://bbohling.micro.blog/2017/12/11/ellie-had-a.html
 ---
 Ellie had a rough day today
