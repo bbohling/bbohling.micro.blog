@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-08-30 12:27 -0700
+date: 2017-08-30 12:27:10 -0700
 guid: http://bbohling.micro.blog/2017/08/30/cold-espresso-cashew.html
 ---
 Cold espresso, cashew milk, chocolate, and a smoked ice cube is creamy and delicious. #whoknew
