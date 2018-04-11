@@ -6,10 +6,18 @@
 	"items": [
 		
 		{
+			"id": "http://bbohling.micro.blog/2018/04/11/the-season-nears.html",
+	      	
+			"content_html": "<p>The season nears</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/80e96287aa.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-04-11T07:43:54-07:00",
+			"url": "https://micro.brandonbohling.com/2018/04/11/the-season-nears.html"
+		},
+		
+		{
 			"id": "http://bbohling.micro.blog/2018/04/10/speaking-of-games.html",
 	      	
 			"content_html": "<p>Speaking of games from my past…I have such fond memories of playing Drol in high school: <a href=\"https://www.mobygames.com/game/apple2/drol\">www.mobygames.com/game/appl…</a></p>\n",
-			"date_published": "2018-04-10T07:47:00-07:00",
+			"date_published": "2018-04-10T07:47:41-07:00",
 			"url": "https://micro.brandonbohling.com/2018/04/10/speaking-of-games.html"
 		},
 		
@@ -17,7 +25,7 @@
 			"id": "http://bbohling.micro.blog/2018/04/10/144450.html",
 	      	
 			"content_html": "<p>This is the greatest discovery ever: <a href=\"http://www.libsdl.org/projects/Maelstrom/index.html.\">www.libsdl.org/projects/…</a> Game play is exactly like I remember it.</p>\n",
-			"date_published": "2018-04-10T07:44:00-07:00",
+			"date_published": "2018-04-10T07:44:50-07:00",
 			"url": "https://micro.brandonbohling.com/2018/04/10/144450.html"
 		},
 		
@@ -25,7 +33,7 @@
 			"id": "http://bbohling.micro.blog/2018/04/08/making-a-votive.html",
 	      	
 			"content_html": "<p>Making a votive: <a href=\"https://photos.app.goo.gl/2buCGpNh2FPoNHcz2\">photos.app.goo.gl/2buCGpNh2…</a></p>\n",
-			"date_published": "2018-04-07T17:33:00-07:00",
+			"date_published": "2018-04-07T17:33:40-07:00",
 			"url": "https://micro.brandonbohling.com/2018/04/07/making-a-votive.html"
 		},
 		
@@ -33,7 +41,7 @@
 			"id": "http://bbohling.micro.blog/2018/04/07/olivia-beach.html",
 	      	
 			"content_html": "<p>Olivia Beach</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/dfee0ff942.jpg\" width=\"600\" height=\"400\" /></p>\n",
-			"date_published": "2018-04-07T14:57:00-07:00",
+			"date_published": "2018-04-07T14:57:03-07:00",
 			"url": "https://micro.brandonbohling.com/2018/04/07/olivia-beach.html"
 		},
 		
@@ -49,7 +57,7 @@
 			"id": "http://bbohling.micro.blog/2018/04/07/another-tasty-ginger.html",
 	      	
 			"content_html": "<p>Another tasty ginger beer…with bourbon (like Buffalo Trace)</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/0c8ea4ba3b.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-04-06T17:10:00-07:00",
+			"date_published": "2018-04-06T17:10:36-07:00",
 			"url": "https://micro.brandonbohling.com/2018/04/06/another-tasty-ginger.html"
 		},
 		
@@ -57,7 +65,7 @@
 			"id": "http://bbohling.micro.blog/2018/04/05/ordered-a-beer.html",
 	      	
 			"content_html": "<p>Ordered a beer that apparently was at the end of the keg so they brought me a “small” compensation beer. Oh darn.</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/cc8c38535d.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-04-04T19:57:00-07:00",
+			"date_published": "2018-04-04T19:57:13-07:00",
 			"url": "https://micro.brandonbohling.com/2018/04/04/ordered-a-beer.html"
 		},
 		
@@ -65,7 +73,7 @@
 			"id": "http://bbohling.micro.blog/2018/04/03/who-remembers-geocaching.html",
 	      	
 			"content_html": "<p>Who remembers geocaching with one of these high-tech gadgets?</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/3c5354726b.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-04-03T07:20:00-07:00",
+			"date_published": "2018-04-03T07:20:57-07:00",
 			"url": "https://micro.brandonbohling.com/2018/04/03/who-remembers-geocaching.html"
 		},
 		
@@ -73,7 +81,7 @@
 			"id": "http://bbohling.micro.blog/2018/03/31/hehe.html",
 	      	
 			"content_html": "<p>Hehe</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/eec190ad88.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-03-31T07:56:00-07:00",
+			"date_published": "2018-03-31T07:56:03-07:00",
 			"url": "https://micro.brandonbohling.com/2018/03/31/hehe.html"
 		},
 		
@@ -81,7 +89,7 @@
 			"id": "http://bbohling.micro.blog/2018/03/30/olivia-beach-lincoln.html",
 	      	
 			"content_html": "<p>Olivia Beach, Lincoln City, Oregon. <a href=\"https://vimeo.com/262491316\">vimeo.com/262491316</a></p>\n",
-			"date_published": "2018-03-30T07:08:00-07:00",
+			"date_published": "2018-03-30T07:08:33-07:00",
 			"url": "https://micro.brandonbohling.com/2018/03/30/olivia-beach-lincoln.html"
 		},
 		
@@ -89,7 +97,7 @@
 			"id": "http://bbohling.micro.blog/2018/03/28/a-little-ride.html",
 	      	
 			"content_html": "<p>A little ride to jumpstart vacation</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/63ce26c6aa.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-03-28T11:45:00-07:00",
+			"date_published": "2018-03-28T11:45:24-07:00",
 			"url": "https://micro.brandonbohling.com/2018/03/28/a-little-ride.html"
 		},
 		
@@ -97,7 +105,7 @@
 			"id": "http://bbohling.micro.blog/2018/03/28/certainly-two-frameworks.html",
 	      	
 			"content_html": "<p>Certainly two <em>frameworks</em> with different goals, but my initial impression is that I prefer Serverless over Claudia.js.</p>\n",
-			"date_published": "2018-03-28T08:02:00-07:00",
+			"date_published": "2018-03-28T08:02:43-07:00",
 			"url": "https://micro.brandonbohling.com/2018/03/28/certainly-two-frameworks.html"
 		},
 		
@@ -105,7 +113,7 @@
 			"id": "http://bbohling.micro.blog/2018/03/28/those-people-putting.html",
 	      	
 			"content_html": "<p>Those people putting a video or two together (for fun) from lots of footage…what are you doing with the <em>raw</em> footage? It’s similar to what I do with my RAW photos, but I’m second guessing myself now.</p>\n",
-			"date_published": "2018-03-28T07:36:00-07:00",
+			"date_published": "2018-03-28T07:36:08-07:00",
 			"url": "https://micro.brandonbohling.com/2018/03/28/those-people-putting.html"
 		},
 		
@@ -113,7 +121,7 @@
 			"id": "http://bbohling.micro.blog/2018/03/28/spent-the-evening.html",
 	      	
 			"content_html": "<p>Spent the evening playing with AWS Lamba. Roles/Policies gave me the most grief. Grrrr.</p>\n",
-			"date_published": "2018-03-27T22:15:00-07:00",
+			"date_published": "2018-03-27T22:15:46-07:00",
 			"url": "https://micro.brandonbohling.com/2018/03/27/spent-the-evening.html"
 		},
 		
@@ -121,7 +129,7 @@
 			"id": "http://bbohling.micro.blog/2018/03/27/i-dont-expect.html",
 	      	
 			"content_html": "<p>I don’t expect anyone other than possibly family members to watch this, but if you are curious what Iowa farmlands look like in March: <a href=\"https://vimeo.com/261773420.\">vimeo.com/261773420…</a></p>\n",
-			"date_published": "2018-03-26T19:20:00-07:00",
+			"date_published": "2018-03-26T19:20:52-07:00",
 			"url": "https://micro.brandonbohling.com/2018/03/26/i-dont-expect.html"
 		},
 		
@@ -129,7 +137,7 @@
 			"id": "http://bbohling.micro.blog/2018/03/24/bloody-maria-to.html",
 	      	
 			"content_html": "<p>Bloody Maria to wash down a breakfast burrito from Taco Pedaler. An awesome way to start the weekend.</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/5e766ebd7b.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-03-24T11:01:00-07:00",
+			"date_published": "2018-03-24T11:01:39-07:00",
 			"url": "https://micro.brandonbohling.com/2018/03/24/bloody-maria-to.html"
 		},
 		
@@ -137,7 +145,7 @@
 			"id": "http://bbohling.micro.blog/2018/03/24/pooch-enjoying-last.html",
 	      	
 			"content_html": "<p>Pooch enjoying last weekend’s sunshine</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/6b6a9351c6.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-03-24T10:59:00-07:00",
+			"date_published": "2018-03-24T10:59:42-07:00",
 			"url": "https://micro.brandonbohling.com/2018/03/24/pooch-enjoying-last.html"
 		},
 		
@@ -145,7 +153,7 @@
 			"id": "http://bbohling.micro.blog/2018/03/23/spent-about-minutes.html",
 	      	
 			"content_html": "<p>Spent about 5 minutes on FaceBook this morning for the first time in over a month…didn’t miss much. Maybe it’s finally time to delete my account.</p>\n",
-			"date_published": "2018-03-23T07:03:00-07:00",
+			"date_published": "2018-03-23T07:03:54-07:00",
 			"url": "https://micro.brandonbohling.com/2018/03/23/spent-about-minutes.html"
 		},
 		
@@ -153,7 +161,7 @@
 			"id": "http://bbohling.micro.blog/2018/03/23/new-spring-tires.html",
 	      	
 			"content_html": "<p><a href=\"http://micro.brandonbohling.com/uploads/2018/edfa0a3bcd.jpg\"><img src=\"http://micro.brandonbohling.com/uploads/2018/edfa0a3bcd.jpg\" width=\"600\" height=\"450\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p><br />New spring tires on the gravel bike and freshly roasted beans.</p>\n",
-			"date_published": "2018-03-22T20:24:00-07:00",
+			"date_published": "2018-03-22T20:24:03-07:00",
 			"url": "https://micro.brandonbohling.com/2018/03/22/new-spring-tires.html"
 		},
 		
@@ -161,7 +169,7 @@
 			"id": "http://bbohling.micro.blog/2018/03/14/i-thought-california.html",
 	      	
 			"content_html": "<p>I thought California was sunny</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/5f6d770505.jpg\" width=\"450\" height=\"600\" /></p>\n",
-			"date_published": "2018-03-14T11:40:00-07:00",
+			"date_published": "2018-03-14T11:40:42-07:00",
 			"url": "https://micro.brandonbohling.com/2018/03/14/i-thought-california.html"
 		},
 		
@@ -169,7 +177,7 @@
 			"id": "http://bbohling.micro.blog/2018/03/12/i-give-the.html",
 	      	
 			"content_html": "<p><a href=\"http://micro.brandonbohling.com/uploads/2018/7501adc7b3.jpg\"><img src=\"http://micro.brandonbohling.com/uploads/2018/7501adc7b3.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://micro.brandonbohling.com/uploads/2018/79bbd1fb4a.jpg\"><img src=\"http://micro.brandonbohling.com/uploads/2018/79bbd1fb4a.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n\n<p>I give the Upside Down taco truck in Portland a thumbs up. Loved the pork, chorizo was super, beef had an awesome flavor, but was a bit too fatty for my liking.</p>\n",
-			"date_published": "2018-03-12T14:15:00-07:00",
+			"date_published": "2018-03-12T14:15:58-07:00",
 			"url": "https://micro.brandonbohling.com/2018/03/12/i-give-the.html"
 		},
 		
@@ -179,7 +187,7 @@
 			"title": "Is It Time?",
 			
 			"content_html": "<p><a href=\"http://micro.brandonbohling.com/uploads/2018/13642d0c41.jpg\"><img src=\"http://micro.brandonbohling.com/uploads/2018/13642d0c41.jpg\" width=\"337\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p><br />I might as well delete it at this point, right?</p>\n",
-			"date_published": "2018-03-09T16:40:00-08:00",
+			"date_published": "2018-03-09T16:40:30-08:00",
 			"url": "https://micro.brandonbohling.com/2018/03/09/is-it-time.html"
 		},
 		
@@ -187,7 +195,7 @@
 			"id": "http://bbohling.micro.blog/2018/02/22/oregon-finally-getting.html",
 	      	
 			"content_html": "<p>Oregon finally getting signs of winter.</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/5f3a5e8ad9.jpg\" width=\"600\" height=\"201\" /></p>\n",
-			"date_published": "2018-02-22T08:13:00-08:00",
+			"date_published": "2018-02-22T08:13:08-08:00",
 			"url": "https://micro.brandonbohling.com/2018/02/22/oregon-finally-getting.html"
 		},
 		
@@ -197,16 +205,8 @@
 			"title": "Apple: the Interesting and Frustrating",
 			
 			"content_html": "<p>For the last few weeks after my son’s piano lessons we go to a particular restaurant. Only the piano lesson is a calendar event; nothing about the restaurant on my iPhone. Last night driving away from piano lessons, an iOS notification popped up stating how long until we arrive at the restaurant. Interesting. Too bad Apple can’t make basic text input easier…I swear my typing accuracy has gotten worse with every release since the original iPhone.</p>\n",
-			"date_published": "2018-02-16T07:59:00-08:00",
+			"date_published": "2018-02-16T07:59:55-08:00",
 			"url": "https://micro.brandonbohling.com/2018/02/16/apple-the-interesting.html"
-		},
-		
-		{
-			"id": "http://bbohling.micro.blog/2018/02/10/who-knew-a.html",
-	      	
-			"content_html": "<p>Who knew a gluten free, vegan, breakfast sandwich could be not only edible, but good!?</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/451cee22ad.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-02-10T11:07:00-08:00",
-			"url": "https://micro.brandonbohling.com/2018/02/10/who-knew-a.html"
 		}
 		
 	]
