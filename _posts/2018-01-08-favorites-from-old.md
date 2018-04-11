@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-01-08 14:06 -0700
+date: 2018-01-08 14:06:43 -0700
 guid: http://bbohling.micro.blog/2018/01/08/favorites-from-old.html
 ---
 Favorites from (old post) Fabulous macOS Tips & Tricks:
