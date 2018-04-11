@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-08-05 09:56 -0700
+date: 2017-08-05 09:56:56 -0700
 guid: http://bbohling.micro.blog/2017/08/05/this-is-the.html
 ---
 This is the outside of the game trailer.
