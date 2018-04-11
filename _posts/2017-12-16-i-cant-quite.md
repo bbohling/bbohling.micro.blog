@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-12-16 14:15 -0700
+date: 2017-12-16 14:15:24 -0700
 guid: http://bbohling.micro.blog/2017/12/16/i-cant-quite.html
 ---
 I can’t quite put my finger on it, but I much prefer Futsal over outdoor soccer.
