@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-01-27 23:19 -0700
+date: 2018-01-27 23:19:38 -0700
 guid: http://bbohling.micro.blog/2018/01/28/one-scene-from.html
 ---
 One scene from today’s gravel ride 🚲
