@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-07-18 18:11 -0700
+date: 2017-07-18 18:11:48 -0700
 guid: http://bbohling.micro.blog/2017/07/19/horrendous-views-on.html
 ---
 Horrendous views on my ride tonight
