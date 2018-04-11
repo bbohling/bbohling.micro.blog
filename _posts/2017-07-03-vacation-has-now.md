@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-07-03 08:59 -0700
+date: 2017-07-03 08:59:40 -0700
 guid: http://bbohling.micro.blog/2017/07/03/vacation-has-now.html
 ---
 Vacation has now started
