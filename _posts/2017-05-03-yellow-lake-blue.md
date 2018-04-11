@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-05-03 14:33 -0700
+date: 2017-05-03 14:33:35 -0700
 guid: http://bbohling.micro.blog/2017/05/03/yellow-lake-blue.html
 ---
 Yellow Lake #5? Blue Lake #1? Am I suppose to get warm fuzzies from those names?
