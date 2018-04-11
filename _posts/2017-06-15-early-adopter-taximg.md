@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-06-15 08:22 -0700
+date: 2017-06-15 08:22:06 -0700
 guid: http://bbohling.micro.blog/2017/06/15/early-adopter-taximg.html
 ---
 Early adopter tax
