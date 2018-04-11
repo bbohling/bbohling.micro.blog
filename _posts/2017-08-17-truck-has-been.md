@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-08-17 12:04 -0700
+date: 2017-08-17 12:04:34 -0700
 guid: http://bbohling.micro.blog/2017/08/17/truck-has-been.html
 ---
 Truck has been leveled up
