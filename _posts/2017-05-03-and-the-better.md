@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-05-02 17:24 -0700
+date: 2017-05-02 17:24:31 -0700
 guid: http://bbohling.micro.blog/2017/05/03/and-the-better.html
 ---
 And the better VPNs have very little impact
