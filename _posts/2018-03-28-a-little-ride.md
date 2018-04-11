@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-28 11:45 -0700
+date: 2018-03-28 11:45:24 -0700
 guid: http://bbohling.micro.blog/2018/03/28/a-little-ride.html
 ---
 A little ride to jumpstart vacation
