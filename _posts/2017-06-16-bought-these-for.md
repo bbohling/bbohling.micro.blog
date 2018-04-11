@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-06-16 06:58 -0700
+date: 2017-06-16 06:58:16 -0700
 guid: http://bbohling.micro.blog/2017/06/16/bought-these-for.html
 ---
 Bought these for cycling but they are so good with coffee (of course, warmed over the coffee) that I bought a monthly subscription via Amazon Prime
