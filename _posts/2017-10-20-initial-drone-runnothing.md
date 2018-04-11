@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-10-20 16:35 -0700
+date: 2017-10-20 16:35:26 -0700
 guid: http://bbohling.micro.blog/2017/10/20/initial-drone-runnothing.html
 ---
 Initial Drone Run...nothing fancy, I’m a total newbie.
