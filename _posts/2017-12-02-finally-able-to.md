@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-12-02 10:59 -0700
+date: 2017-12-02 10:59:43 -0700
 guid: http://bbohling.micro.blog/2017/12/02/finally-able-to.html
 ---
 Finally able to take the new ride out yesterday.
