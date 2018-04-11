@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-07-14 21:29 -0700
+date: 2017-07-14 21:29:10 -0700
 guid: http://bbohling.micro.blog/2017/07/15/whoa-this-was.html
 ---
 Whoa, this was mighty tasty
