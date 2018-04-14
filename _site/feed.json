@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://bbohling.micro.blog/2018/04/14/finished-all-systems.html",
+	      	
+			"content_html": "<p>📚 Finished <a href=\"http://a.co/98Y9tyv\">All Systems Red: The Murderbot Diaries</a> this morning. Took me a while to get into the short book, but it was enjoyable. ★★★★☆</p>\n",
+			"date_published": "2018-04-14T09:03:15-07:00",
+			"url": "https://micro.brandonbohling.com/2018/04/14/finished-all-systems.html"
+		},
+		
+		{
 			"id": "http://bbohling.micro.blog/2018/04/14/oregon-rainbows.html",
 	      	
 			"title": "Oregon Rainbows",
@@ -197,14 +205,6 @@
 			"content_html": "<p><a href=\"http://micro.brandonbohling.com/uploads/2018/edfa0a3bcd.jpg\"><img src=\"http://micro.brandonbohling.com/uploads/2018/edfa0a3bcd.jpg\" width=\"600\" height=\"450\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p><br />New spring tires on the gravel bike and freshly roasted beans.</p>\n",
 			"date_published": "2018-03-22T20:24:03-07:00",
 			"url": "https://micro.brandonbohling.com/2018/03/22/new-spring-tires.html"
-		},
-		
-		{
-			"id": "http://bbohling.micro.blog/2018/03/14/i-thought-california.html",
-	      	
-			"content_html": "<p>I thought California was sunny</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/5f6d770505.jpg\" width=\"450\" height=\"600\" /></p>\n",
-			"date_published": "2018-03-14T11:40:42-07:00",
-			"url": "https://micro.brandonbohling.com/2018/03/14/i-thought-california.html"
 		}
 		
 	]
