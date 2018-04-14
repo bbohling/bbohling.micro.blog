@@ -36,6 +36,7 @@ baseurl: ""
 url: "https://micro.brandonbohling.com"
 markdown: "kramdown"
 username: "bbohling"
+microblog_user: "bbohling"
 permalink: "/:year/:month/:day/:title.html"
 relative_permalinks: false
 author: "Brandon Bohling"
