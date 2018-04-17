@@ -1,27 +1,26 @@
 ---
 layout: default
-archive: true
 ---
 
-<article class="post h-entry">
-    <header>
-		<h1>{{ page.title }}</h1>
-        <h2 class="headline"><time class="dt-published" datetime="{{ page.date }}">{{ page.date | date:"%B %-d, %Y" }}</time></h2>
-    </header>
-    <section id="post-body e-content">
-        {{content}}
-    </section>
+<article class="h-entry post">
+  <header>
+    <h1 class="p-name">{{ page.title }}</h1>
+    <h2 class="headline">
+      <time class="dt-published" datetime="{{ page.date }}">
+        <a class="u-url dates" href="{{ site.baseurl }}/{{ page.url | remove_first: '/' }}">{{ page.date | date:"%B %-d, %Y" }}</a>
+      </time>
+    </h2>
+  </header>
+  <section class="e-content post-body">
+      {{content}}
+  </section>
 </article>
-<footer id="post-meta" class="clearfix">
-    <a href="https://micro.blog/{{ site.username }}">
-        <img class="avatar" src="{{ site.avatar }}" />
-        <div>
-            <span class="dark">{{ site.username }}</span>
-            <span>{{ site.author }}</span>
-        </div>
-    </a>
-
-    <section id="sharing">
-        {% include share.html %}
-    </section>
-</footer>
+<section id="post-meta" class="clearfix">
+  <a href="/">
+    <img class="u-photo avatar" src="{{ site.avatar }}">
+    <div>
+      <span class="p-author h-card dark">{{ site.author }}</span>
+      <span><a href="https://micro.blog/{{ site.microblog_user }}">@{{ site.microblog_user }}</a></span>
+    </div>
+  </a>
+</section>
