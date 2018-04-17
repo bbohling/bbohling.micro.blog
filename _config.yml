@@ -1,12 +1,5 @@
-aboutPage: true
-
-# - markdown: redcarpet
-highlighter: rouge
-
-domain_# - name: "http://[HOSTNAME]"
-google_analytics: 'UA-XXXXXXXX-X'
-disqus: false
-disqus_short# - name: 'your-disqus-shortname'
+highlighter: "rouge"
+# - markdown: "kramdown"
 
 defaults:
     -
@@ -21,12 +14,9 @@ defaults:
             type: posts
         values:
             layout: post
-    -
-        scope:
-            path: ""
-            type: drafts
-        values:
-            layout: post
+
+plugins:
+  - jekyll-sitemap
 
 title: "Brandon Bohling"
 tagline: ""
