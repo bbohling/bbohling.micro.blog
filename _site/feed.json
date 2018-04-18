@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://bbohling.micro.blog/2018/04/18/first-ride-on.html",
+	      	
+			"content_html": "<p>🚲 First ride on the road bike in 2018. After months of riding my gravel and fat bikes it’s like riding a Ferrari after driving a truck all winter.</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/e99f6e1a41.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-04-17T20:39:43-07:00",
+			"url": "https://micro.brandonbohling.com/2018/04/17/first-ride-on.html"
+		},
+		
+		{
 			"id": "http://bbohling.micro.blog/2018/04/17/if-you-are.html",
 	      	
 			"content_html": "<p>If you are fed up with Bartender’s slowness like I was, I highly encourage you to check out <a href=\"https://matthewpalmer.net/vanilla/\">Vanilla</a>. I went Pro ($4) after exactly 5.8 seconds of usage.</p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p>Spent the evening playing with AWS Lamba. Roles/Policies gave me the most grief. Grrrr.</p>\n",
 			"date_published": "2018-03-27T22:15:46-07:00",
 			"url": "https://micro.brandonbohling.com/2018/03/27/spent-the-evening.html"
-		},
-		
-		{
-			"id": "http://bbohling.micro.blog/2018/03/27/i-dont-expect.html",
-	      	
-			"content_html": "<p>I don’t expect anyone other than possibly family members to watch this, but if you are curious what Iowa farmlands look like in March: <a href=\"https://vimeo.com/261773420.\">vimeo.com/261773420…</a></p>\n",
-			"date_published": "2018-03-26T19:20:52-07:00",
-			"url": "https://micro.brandonbohling.com/2018/03/26/i-dont-expect.html"
 		}
 		
 	]
