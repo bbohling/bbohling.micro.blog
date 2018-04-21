@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://bbohling.micro.blog/2018/04/21/weird-cloud-edge.html",
+	      	
+			"content_html": "<p>Weird cloud edge this morning</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/2432cfdede.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-04-20T17:56:47-07:00",
+			"url": "https://micro.brandonbohling.com/2018/04/20/weird-cloud-edge.html"
+		},
+		
+		{
 			"id": "http://bbohling.micro.blog/2018/04/20/preride-sustenance.html",
 	      	
 			"content_html": "<p>Pre-ride sustenance</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/b93789c860.jpg\" width=\"600\" height=\"599\" /></p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p>A little ride to jumpstart vacation</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/63ce26c6aa.jpg\" width=\"600\" height=\"599\" /></p>\n",
 			"date_published": "2018-03-28T11:45:24-07:00",
 			"url": "https://micro.brandonbohling.com/2018/03/28/a-little-ride.html"
-		},
-		
-		{
-			"id": "http://bbohling.micro.blog/2018/03/28/certainly-two-frameworks.html",
-	      	
-			"content_html": "<p>Certainly two <em>frameworks</em> with different goals, but my initial impression is that I prefer Serverless over Claudia.js.</p>\n",
-			"date_published": "2018-03-28T08:02:43-07:00",
-			"url": "https://micro.brandonbohling.com/2018/03/28/certainly-two-frameworks.html"
 		}
 		
 	]
