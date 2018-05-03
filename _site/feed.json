@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://bbohling.micro.blog/2018/05/03/i-should-be.html",
+	      	
+			"content_html": "<p>I should be packing for my trip, but I think I’m going to chill a bit and let this week’s chaos melt away first.</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/c8eb16ad62.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-05-03T08:14:47-07:00",
+			"url": "https://micro.brandonbohling.com/2018/05/03/i-should-be.html"
+		},
+		
+		{
 			"id": "http://bbohling.micro.blog/2018/05/02/free-voodoo-today.html",
 	      	
 			"content_html": "<p>Free Voodoo today at work. Good plan, I’m off to take a 9 hour nap now.</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/3c158e1efa.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p>Another tasty ginger beer…with bourbon (like Buffalo Trace)</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/0c8ea4ba3b.jpg\" width=\"600\" height=\"599\" /></p>\n",
 			"date_published": "2018-04-06T17:10:36-07:00",
 			"url": "https://micro.brandonbohling.com/2018/04/06/another-tasty-ginger.html"
-		},
-		
-		{
-			"id": "http://bbohling.micro.blog/2018/04/05/ordered-a-beer.html",
-	      	
-			"content_html": "<p>Ordered a beer that apparently was at the end of the keg so they brought me a “small” compensation beer. Oh darn.</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/cc8c38535d.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-04-04T19:57:13-07:00",
-			"url": "https://micro.brandonbohling.com/2018/04/04/ordered-a-beer.html"
 		}
 		
 	]
