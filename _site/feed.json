@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://bbohling.micro.blog/2018/05/04/day-cycling-view.html",
+	      	
+			"content_html": "<p>Day 1 cycling view in Maupin, OR.</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/03c81705b6.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-05-03T20:54:41-07:00",
+			"url": "https://micro.brandonbohling.com/2018/05/03/day-cycling-view.html"
+		},
+		
+		{
 			"id": "http://bbohling.micro.blog/2018/05/03/i-should-be.html",
 	      	
 			"content_html": "<p>I should be packing for my trip, but I think I’m going to chill a bit and let this week’s chaos melt away first.</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/c8eb16ad62.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p>Roads End in Lincoln City, OR</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/3ebc662c72.jpg\" width=\"600\" height=\"449\" /></p>\n",
 			"date_published": "2018-04-07T14:27:00-07:00",
 			"url": "https://micro.brandonbohling.com/2018/04/07/roads-end-in.html"
-		},
-		
-		{
-			"id": "http://bbohling.micro.blog/2018/04/07/another-tasty-ginger.html",
-	      	
-			"content_html": "<p>Another tasty ginger beer…with bourbon (like Buffalo Trace)</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/0c8ea4ba3b.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-04-06T17:10:36-07:00",
-			"url": "https://micro.brandonbohling.com/2018/04/06/another-tasty-ginger.html"
 		}
 		
 	]
