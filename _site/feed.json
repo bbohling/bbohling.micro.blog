@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://bbohling.micro.blog/2018/06/11/omgi-spent-hours.html",
+	      	
+			"content_html": "<p>OMG…I spent hours today (HOURS and HOURS) trying to figure out why my terraform + cloud-init configs were not working 100%. Stupid me didn’t realize cloud-init barfs on tabs…must use spaces.</p>\n",
+			"date_published": "2018-06-10T22:08:51-07:00",
+			"url": "https://micro.brandonbohling.com/2018/06/10/omgi-spent-hours.html"
+		},
+		
+		{
+			"id": "http://bbohling.micro.blog/2018/06/10/theres-a-lot.html",
+	      	
+			"content_html": "<p>There’s a lot of techie folks here…</p>\n\n<p>Anyone have a good example of using Terraform to create a DigitalOcean droplet with nginx, mongo, node, new user, ssh key, firewall, etc.? Of course I have come across plenty of tutorials, but I haven’t liked any of their implementations.</p>\n",
+			"date_published": "2018-06-10T11:56:27-07:00",
+			"url": "https://micro.brandonbohling.com/2018/06/10/theres-a-lot.html"
+		},
+		
+		{
 			"id": "http://bbohling.micro.blog/2018/06/10/love-the-views.html",
 	      	
 			"content_html": "<p>Love the views on our gravel rides. Probably not wise that I take them while moving…with my iPhone…which of course is always case-less.</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/c1ba1f8512.jpg\" width=\"600\" height=\"599\" /></p>\n",
@@ -191,22 +207,6 @@
 			"content_html": "<p>Sooooo, how well does this <a href=\"http://getdrafts.com\">Drafts</a> <strong>Post to Micro.blog</strong> action work?</p>\n",
 			"date_published": "2018-04-18T09:29:31-07:00",
 			"url": "https://micro.brandonbohling.com/2018/04/18/sooooo-how-well.html"
-		},
-		
-		{
-			"id": "http://bbohling.micro.blog/2018/04/18/first-ride-on.html",
-	      	
-			"content_html": "<p>🚲 First ride on the road bike in 2018. After months of riding my gravel and fat bikes it’s like riding a Ferrari after driving a truck all winter.</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/e99f6e1a41.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-04-17T20:39:43-07:00",
-			"url": "https://micro.brandonbohling.com/2018/04/17/first-ride-on.html"
-		},
-		
-		{
-			"id": "http://bbohling.micro.blog/2018/04/17/if-you-are.html",
-	      	
-			"content_html": "<p>If you are fed up with Bartender’s slowness like I was, I highly encourage you to check out <a href=\"https://matthewpalmer.net/vanilla/\">Vanilla</a>. I went Pro ($4) after exactly 5.8 seconds of usage.</p>\n",
-			"date_published": "2018-04-17T13:29:48-07:00",
-			"url": "https://micro.brandonbohling.com/2018/04/17/if-you-are.html"
 		}
 		
 	]
