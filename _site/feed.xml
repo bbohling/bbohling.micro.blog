@@ -4,8 +4,28 @@
     <title>Brandon Bohling</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/bbohling&quot;&gt;@bbohling on Micro.blog&lt;/a&gt;.</description>
     <link>https://micro.brandonbohling.com/</link>
-    <pubDate>Sat, 09 Jun 2018 17:06:43 -0700</pubDate>
-    <lastBuildDate>Sat, 09 Jun 2018 17:06:43 -0700</lastBuildDate>
+    <pubDate>Sun, 10 Jun 2018 22:09:08 -0700</pubDate>
+    <lastBuildDate>Sun, 10 Jun 2018 22:09:08 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;OMG…I spent hours today (HOURS and HOURS) trying to figure out why my terraform + cloud-init configs were not working 100%. Stupid me didn’t realize cloud-init barfs on tabs…must use spaces.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 10 Jun 2018 22:08:51 -0700</pubDate>
+        <link>https://micro.brandonbohling.com/2018/06/10/omgi-spent-hours.html</link>
+        <guid isPermaLink="true">http://bbohling.micro.blog/2018/06/11/omgi-spent-hours.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;There’s a lot of techie folks here…&lt;/p&gt;
+
+&lt;p&gt;Anyone have a good example of using Terraform to create a DigitalOcean droplet with nginx, mongo, node, new user, ssh key, firewall, etc.? Of course I have come across plenty of tutorials, but I haven’t liked any of their implementations.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 10 Jun 2018 11:56:27 -0700</pubDate>
+        <link>https://micro.brandonbohling.com/2018/06/10/theres-a-lot.html</link>
+        <guid isPermaLink="true">http://bbohling.micro.blog/2018/06/10/theres-a-lot.html</guid>
+      </item>
     
       <item>
       	
@@ -524,26 +544,6 @@ Son: do you want me to try or just make you feel good?&lt;/p&gt;
         <pubDate>Tue, 27 Mar 2018 22:15:46 -0700</pubDate>
         <link>https://micro.brandonbohling.com/2018/03/27/spent-the-evening.html</link>
         <guid isPermaLink="true">http://bbohling.micro.blog/2018/03/28/spent-the-evening.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I don’t expect anyone other than possibly family members to watch this, but if you are curious what Iowa farmlands look like in March: &lt;a href=&quot;https://vimeo.com/261773420.&quot;&gt;vimeo.com/261773420…&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 26 Mar 2018 19:20:52 -0700</pubDate>
-        <link>https://micro.brandonbohling.com/2018/03/26/i-dont-expect.html</link>
-        <guid isPermaLink="true">http://bbohling.micro.blog/2018/03/27/i-dont-expect.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Bloody Maria to wash down a breakfast burrito from Taco Pedaler. An awesome way to start the weekend.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://micro.brandonbohling.com/uploads/2018/5e766ebd7b.jpg&quot; width=&quot;600&quot; height=&quot;599&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 24 Mar 2018 11:01:39 -0700</pubDate>
-        <link>https://micro.brandonbohling.com/2018/03/24/bloody-maria-to.html</link>
-        <guid isPermaLink="true">http://bbohling.micro.blog/2018/03/24/bloody-maria-to.html</guid>
       </item>
     
   </channel>
