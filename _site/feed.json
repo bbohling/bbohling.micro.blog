@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://bbohling.micro.blog/2018/06/24/happy-sunday-from.html",
+	      	
+			"content_html": "<p>Happy Sunday from Next Door in Port Angeles</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/d18111701d.jpg\" width=\"450\" height=\"600\" /></p>\n",
+			"date_published": "2018-06-24T11:41:20-07:00",
+			"url": "https://micro.brandonbohling.com/2018/06/24/happy-sunday-from.html"
+		},
+		
+		{
+			"id": "http://bbohling.micro.blog/2018/06/23/hanging-with-my.html",
+	      	
+			"content_html": "<p>Hanging with my favorite person in the whole wide world</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/d2b99b99d8.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-06-23T13:33:03-07:00",
+			"url": "https://micro.brandonbohling.com/2018/06/23/hanging-with-my.html"
+		},
+		
+		{
 			"id": "http://bbohling.micro.blog/2018/06/23/for-those-that.html",
 	      	
 			"content_html": "<p>For those that think I’m an Apple fanboy, my latest computer…</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/c98362aaff.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -191,22 +207,6 @@
 			"content_html": "<p>Drive home from Maupin, Oregon.</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/c2069ec21f.jpg\" width=\"600\" height=\"450\" /></p>\n",
 			"date_published": "2018-05-08T06:11:25-07:00",
 			"url": "https://micro.brandonbohling.com/2018/05/08/drive-home-from.html"
-		},
-		
-		{
-			"id": "http://bbohling.micro.blog/2018/05/07/day-saturday-cycling.html",
-	      	
-			"content_html": "<p>Day 3 (Saturday) cycling in Maupin: 101.3 miles, 6,581 ft. climbing, 6 hrs 22 min.</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/d107471cfc.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-05-07T10:58:15-07:00",
-			"url": "https://micro.brandonbohling.com/2018/05/07/day-saturday-cycling.html"
-		},
-		
-		{
-			"id": "http://bbohling.micro.blog/2018/05/07/day-friday-cycling.html",
-	      	
-			"content_html": "<p>Day 2 (Friday) cycling in Maupin: 100.8 miles, 6,867 ft. climbing, 6 hrs 18 min.</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/fefdb31930.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-05-07T10:54:20-07:00",
-			"url": "https://micro.brandonbohling.com/2018/05/07/day-friday-cycling.html"
 		}
 		
 	]
