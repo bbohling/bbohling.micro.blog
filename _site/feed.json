@@ -6,6 +6,30 @@
 	"items": [
 		
 		{
+			"id": "http://bbohling.micro.blog/2018/07/12/cairns.html",
+	      	
+			"content_html": "<p>Cairns</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/2aa5f7b972.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-07-11T22:03:25-07:00",
+			"url": "https://micro.brandonbohling.com/2018/07/11/cairns.html"
+		},
+		
+		{
+			"id": "http://bbohling.micro.blog/2018/06/30/is-it-normal.html",
+	      	
+			"content_html": "<p>Is it normal for Lightroom CC to crash when there is little or no internet? Experienced this on two trips now. Only fix is to downgrade to v1.3 once back on a solid, fast internet connection.</p>\n",
+			"date_published": "2018-06-30T14:48:06-07:00",
+			"url": "https://micro.brandonbohling.com/2018/06/30/is-it-normal.html"
+		},
+		
+		{
+			"id": "http://bbohling.micro.blog/2018/06/30/ellies-new-ride.html",
+	      	
+			"content_html": "<p>Ellie’s new ride #spoileddog</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/69e73e10e4.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-06-29T22:28:10-07:00",
+			"url": "https://micro.brandonbohling.com/2018/06/29/ellies-new-ride.html"
+		},
+		
+		{
 			"id": "http://bbohling.micro.blog/2018/06/27/impressive.html",
 	      	
 			"content_html": "<p>Impressive</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/b611ebbdf1.jpg\" width=\"600\" height=\"450\" /></p>\n",
@@ -183,30 +207,6 @@
 			"content_html": "<p>New York Sour #delish 🥃</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/e7170eb329.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-05-27T15:29:16-07:00",
 			"url": "https://micro.brandonbohling.com/2018/05/27/new-york-sour.html"
-		},
-		
-		{
-			"id": "http://bbohling.micro.blog/2018/05/22/current-status.html",
-	      	
-			"content_html": "<p>Current status</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/bd0c1c9193.jpg\" width=\"600\" height=\"450\" /></p>\n",
-			"date_published": "2018-05-21T19:53:31-07:00",
-			"url": "https://micro.brandonbohling.com/2018/05/21/current-status.html"
-		},
-		
-		{
-			"id": "http://bbohling.micro.blog/2018/05/15/mom-ok-you.html",
-	      	
-			"content_html": "<p>Mom: ok, you serve to me\nSon: do you want me to try or just make you feel good?</p>\n\n<p>Yes, I got blamed for that type of response.</p>\n",
-			"date_published": "2018-05-14T20:34:13-07:00",
-			"url": "https://micro.brandonbohling.com/2018/05/14/mom-ok-you.html"
-		},
-		
-		{
-			"id": "http://bbohling.micro.blog/2018/05/11/having-now-finished.html",
-	      	
-			"content_html": "<p>Having now finished previously mentioned maple glazed donut flavored protein bar, I’m going to give it a big thumbs down. First couple of bites were decent, but quickly went downhill by the end. 🤢</p>\n",
-			"date_published": "2018-05-10T21:24:02-07:00",
-			"url": "https://micro.brandonbohling.com/2018/05/10/having-now-finished.html"
 		}
 		
 	]
