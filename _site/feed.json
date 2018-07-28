@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://bbohling.micro.blog/2018/07/28/how-long-has.html",
+	      	
+			"content_html": "<p>How long has Google Maps had the extremely useful hiking trail info!?</p>\n",
+			"date_published": "2018-07-28T07:26:30-07:00",
+			"url": "https://micro.brandonbohling.com/2018/07/28/how-long-has.html"
+		},
+		
+		{
 			"id": "http://bbohling.micro.blog/2018/07/26/my-favorite-keyboard.html",
 	      	
 			"content_html": "<p>My favorite keyboard shortcut:</p>\n\n<p>Command-A + Delete</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/b19728686d.jpg\" width=\"310\" height=\"418\" /></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>There’s a lot of techie folks here…</p>\n\n<p>Anyone have a good example of using Terraform to create a DigitalOcean droplet with nginx, mongo, node, new user, ssh key, firewall, etc.? Of course I have come across plenty of tutorials, but I haven’t liked any of their implementations.</p>\n",
 			"date_published": "2018-06-10T11:56:27-07:00",
 			"url": "https://micro.brandonbohling.com/2018/06/10/theres-a-lot.html"
-		},
-		
-		{
-			"id": "http://bbohling.micro.blog/2018/06/10/love-the-views.html",
-	      	
-			"content_html": "<p>Love the views on our gravel rides. Probably not wise that I take them while moving…with my iPhone…which of course is always case-less.</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/c1ba1f8512.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-06-09T17:06:41-07:00",
-			"url": "https://micro.brandonbohling.com/2018/06/09/love-the-views.html"
 		}
 		
 	]
