@@ -6,6 +6,32 @@
 	"items": [
 		
 		{
+			"id": "http://bbohling.micro.blog/2018/08/12/salmon-good.html",
+	      	
+			"content_text": "Salmon good\n\n\n",
+			"date_published": "2018-08-12T06:22:01-07:00",
+			"url": "https://micro.brandonbohling.com/2018/08/12/salmon-good.html"
+		},
+		
+		{
+			"id": "http://bbohling.micro.blog/2018/08/08/happy-th-birthday.html",
+	      	
+			"content_text": "Happy 7th Birthday Ellie!\n\n\n",
+			"date_published": "2018-08-07T18:42:37-07:00",
+			"url": "https://micro.brandonbohling.com/2018/08/07/happy-th-birthday.html"
+		},
+		
+		{
+			"id": "http://bbohling.micro.blog/2018/08/07/ryanmcdermottcleancodejavascript.html",
+	      	
+			"title": "ryanmcdermott/clean-code-javascript",
+			
+			"content_text": "Clean Code concepts adapted for JavaScript\n",
+			"date_published": "2018-08-07T08:47:13-07:00",
+			"url": "https://micro.brandonbohling.com/2018/08/07/ryanmcdermottcleancodejavascript.html"
+		},
+		
+		{
 			"id": "http://bbohling.micro.blog/2018/08/07/154403.html",
 	      	
 			"title": "Indiepaper",
