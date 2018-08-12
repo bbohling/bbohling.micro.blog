@@ -6,6 +6,32 @@
 	"items": [
 		
 		{
+			"id": "http://bbohling.micro.blog/2018/08/12/salmon-good.html",
+	      	
+			"content_html": "<p>Salmon good</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/4324d3adf8.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-08-12T06:22:01-07:00",
+			"url": "https://micro.brandonbohling.com/2018/08/12/salmon-good.html"
+		},
+		
+		{
+			"id": "http://bbohling.micro.blog/2018/08/08/happy-th-birthday.html",
+	      	
+			"content_html": "<p>Happy 7th Birthday Ellie!</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/94e3fdbfca.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-08-07T18:42:37-07:00",
+			"url": "https://micro.brandonbohling.com/2018/08/07/happy-th-birthday.html"
+		},
+		
+		{
+			"id": "http://bbohling.micro.blog/2018/08/07/ryanmcdermottcleancodejavascript.html",
+	      	
+			"title": "ryanmcdermott/clean-code-javascript",
+			
+			"content_html": "<div><a href=\"https://github.com/ryanmcdermott/clean-code-javascript\">Clean Code concepts adapted for JavaScript</a></div>\n",
+			"date_published": "2018-08-07T08:47:13-07:00",
+			"url": "https://micro.brandonbohling.com/2018/08/07/ryanmcdermottcleancodejavascript.html"
+		},
+		
+		{
 			"id": "http://bbohling.micro.blog/2018/08/07/154403.html",
 	      	
 			"title": "Indiepaper",
@@ -183,30 +209,6 @@
 			"content_html": "<p>Last walk through the tide pools before heading home. Best part…we still have the weekend, woohoo!</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/fe5e80e0e0.jpg\" width=\"600\" height=\"450\" /></p>\n",
 			"date_published": "2018-06-15T09:41:23-07:00",
 			"url": "https://micro.brandonbohling.com/2018/06/15/last-walk-through.html"
-		},
-		
-		{
-			"id": "http://bbohling.micro.blog/2018/06/14/another-gorgeous-day.html",
-	      	
-			"content_html": "<p>Another gorgeous day at the coast.</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/4d323eef3a.jpg\" width=\"600\" height=\"449\" /></p>\n",
-			"date_published": "2018-06-14T09:11:30-07:00",
-			"url": "https://micro.brandonbohling.com/2018/06/14/another-gorgeous-day.html"
-		},
-		
-		{
-			"id": "http://bbohling.micro.blog/2018/06/14/quite-the-view.html",
-	      	
-			"content_html": "<p>Quite the view from Cascade Head</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/e75a6a3ac3.jpg\" width=\"600\" height=\"450\" /></p>\n",
-			"date_published": "2018-06-13T17:37:16-07:00",
-			"url": "https://micro.brandonbohling.com/2018/06/13/quite-the-view.html"
-		},
-		
-		{
-			"id": "http://bbohling.micro.blog/2018/06/13/life-at-the.html",
-	      	
-			"content_html": "<p>Life at the coast is rough</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/68c96962bb.jpg\" width=\"600\" height=\"450\" /></p>\n",
-			"date_published": "2018-06-13T07:59:13-07:00",
-			"url": "https://micro.brandonbohling.com/2018/06/13/life-at-the.html"
 		}
 		
 	]
