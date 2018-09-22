@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://bbohling.micro.blog/2018/09/22/jon-m-chu.html",
+	      	
+			"content_html": "<p><a href=\"https://www.wired.com/story/jon-m-chu-short-film-shot-on-iphone-xs-max/\">Jon M. Chu Shot This Short Film Entirely on an iPhone XS Max</a></p>\n\n<p>Professionals can do amazing things with tools that blow away what us normal people can do, but it is still fun to watch. Plus Chu is the director of the new Bond movie…and recently released Netflix show, Maniac.</p>\n",
+			"date_published": "2018-09-22T08:11:03-07:00",
+			"url": "https://micro.brandonbohling.com/2018/09/22/jon-m-chu.html"
+		},
+		
+		{
 			"id": "http://bbohling.micro.blog/2018/09/22/how-do-you.html",
 	      	
 			"content_html": "<p>How do you test the camera of a new iPhone?</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/b89d2ed88d.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -202,14 +210,6 @@
 			"content_html": "<p>Cairns</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/2aa5f7b972.jpg\" width=\"600\" height=\"450\" /></p>\n",
 			"date_published": "2018-07-11T22:03:25-07:00",
 			"url": "https://micro.brandonbohling.com/2018/07/11/cairns.html"
-		},
-		
-		{
-			"id": "http://bbohling.micro.blog/2018/06/30/is-it-normal.html",
-	      	
-			"content_html": "<p>Is it normal for Lightroom CC to crash when there is little or no internet? Experienced this on two trips now. Only fix is to downgrade to v1.3 once back on a solid, fast internet connection.</p>\n",
-			"date_published": "2018-06-30T14:48:06-07:00",
-			"url": "https://micro.brandonbohling.com/2018/06/30/is-it-normal.html"
 		}
 		
 	]
