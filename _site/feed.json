@@ -7,9 +7,17 @@
 	"items": [
 		
 		{
+			"id": "http://bbohling.micro.blog/2018/09/22/if-the-idea.html",
+	      	
+			"content_html": "<p>If the idea of eating warm sand sounds tasty to you, I highly recommend this</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/2f7a5ee0c1.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-09-22T10:44:04-07:00",
+			"url": "https://micro.brandonbohling.com/2018/09/22/if-the-idea.html"
+		},
+		
+		{
 			"id": "http://bbohling.micro.blog/2018/09/22/jon-m-chu.html",
 	      	
-			"content_html": "<p><a href=\"https://www.wired.com/story/jon-m-chu-short-film-shot-on-iphone-xs-max/\">Jon M. Chu Shot This Short Film Entirely on an iPhone XS Max</a></p>\n\n<p>Professionals can do amazing things with tools that blow away what us normal people can do, but it is still fun to watch. Plus Chu is the director of the new Bond movie…and recently released Netflix show, Maniac.</p>\n",
+			"content_html": "<p><a href=\"https://www.wired.com/story/jon-m-chu-short-film-shot-on-iphone-xs-max/\">Jon M. Chu Shot This Short Film Entirely on an iPhone XS Max</a></p>\n\n<p>Professionals can do amazing things with tools that blow away what us normal people can do, but it is still fun to watch. Plus Chu is the director of the new Bond movie…and recently released Netflix show, Maniac.</p>\n\n<p><strong>update</strong>: apologies for the fake news. Bond and Maniac directory is Cary Fukunaga. Cary also did True Detective Season 1. No clue how I got the two mixed up.</p>\n",
 			"date_published": "2018-09-22T08:11:03-07:00",
 			"url": "https://micro.brandonbohling.com/2018/09/22/jon-m-chu.html"
 		},
@@ -202,14 +210,6 @@
 			"content_html": "<p>Rush hour was brutal today</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/8138b1ec48.jpg\" width=\"600\" height=\"450\" /></p>\n",
 			"date_published": "2018-07-13T12:43:34-07:00",
 			"url": "https://micro.brandonbohling.com/2018/07/13/rush-hour-was.html"
-		},
-		
-		{
-			"id": "http://bbohling.micro.blog/2018/07/12/cairns.html",
-	      	
-			"content_html": "<p>Cairns</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/2aa5f7b972.jpg\" width=\"600\" height=\"450\" /></p>\n",
-			"date_published": "2018-07-11T22:03:25-07:00",
-			"url": "https://micro.brandonbohling.com/2018/07/11/cairns.html"
 		}
 		
 	]
