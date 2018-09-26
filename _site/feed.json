@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://bbohling.micro.blog/2018/09/26/when-superduper-does.html",
+	      	
+			"content_html": "<p>When SuperDuper does not finish before work</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/cf3cd302c5.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-09-26T09:45:03-07:00",
+			"url": "https://micro.brandonbohling.com/2018/09/26/when-superduper-does.html"
+		},
+		
+		{
 			"id": "http://bbohling.micro.blog/2018/09/26/want-a-fun.html",
 	      	
 			"content_html": "<p>Want a fun way to spice up your food or cocktails? Very hot!</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/e89c653f78.jpg\" width=\"600\" height=\"599\" /></p>\n",
@@ -202,14 +210,6 @@
 			"content_html": "<p>Have to immerse myself into work today, which in this case is coding. Taking music suggestions now. Spotify’s Discover Weekly has been failing me recently.</p>\n",
 			"date_published": "2018-07-17T09:44:31-07:00",
 			"url": "https://micro.brandonbohling.com/2018/07/17/have-to-immerse.html"
-		},
-		
-		{
-			"id": "http://bbohling.micro.blog/2018/07/16/obviously-this-bike.html",
-	      	
-			"content_html": "<p>Obviously this bike has been neglected too long</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/564fce8ee9.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-07-16T07:13:45-07:00",
-			"url": "https://micro.brandonbohling.com/2018/07/16/obviously-this-bike.html"
 		}
 		
 	]
