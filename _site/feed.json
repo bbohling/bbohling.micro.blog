@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://bbohling.micro.blog/2018/09/29/roombas-maiden-voyage.html",
+	      	
+			"content_html": "<p>Roomba’s maiden voyage</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/81490af410.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-09-28T18:03:38-07:00",
+			"url": "https://micro.brandonbohling.com/2018/09/28/roombas-maiden-voyage.html"
+		},
+		
+		{
 			"id": "http://bbohling.micro.blog/2018/09/26/when-superduper-does.html",
 	      	
 			"content_html": "<p>When SuperDuper does not finish before work</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/cf3cd302c5.jpg\" width=\"600\" height=\"450\" /></p>\n",
@@ -202,14 +210,6 @@
 			"content_html": "<p>What you do when someone from Spain visits</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/11a6cdc153.jpg\" width=\"600\" height=\"450\" /></p>\n",
 			"date_published": "2018-07-18T20:50:23-07:00",
 			"url": "https://micro.brandonbohling.com/2018/07/18/what-you-do.html"
-		},
-		
-		{
-			"id": "http://bbohling.micro.blog/2018/07/17/have-to-immerse.html",
-	      	
-			"content_html": "<p>Have to immerse myself into work today, which in this case is coding. Taking music suggestions now. Spotify’s Discover Weekly has been failing me recently.</p>\n",
-			"date_published": "2018-07-17T09:44:31-07:00",
-			"url": "https://micro.brandonbohling.com/2018/07/17/have-to-immerse.html"
 		}
 		
 	]
