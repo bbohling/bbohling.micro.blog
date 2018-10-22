@@ -7,8 +7,18 @@
 	"items": [
 		
 		{
+			"id": "http://bbohling.micro.blog/2018/10/22/huh-learn-something.html",
+	      	
+			"content_text": "Huh. Learn something new everyday.\n\n\n",
+			"date_published": "2018-10-22T15:06:02-07:00",
+			"url": "https://micro.brandonbohling.com/2018/10/22/huh-learn-something.html"
+		},
+		
+		{
 			"id": "http://bbohling.micro.blog/2018/10/16/the-comic-filter.html",
 	      	
+			"title": "The Comic Filter on Newer iPhones",
+			
 			"content_text": "The comic filter that @gruber and others were discussing on...",
 			"date_published": "2018-10-16T07:01:20-07:00",
 			"url": "https://micro.brandonbohling.com/2018/10/16/the-comic-filter.html"
