@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://bbohling.micro.blog/2018/10/29/my-son-just.html",
+	      	
+			"content_html": "<p>My son just made me so proud…upon finishing an episode of The Simpsons he said, “oh man, Simpsons are so good on so many levels.”</p>\n",
+			"date_published": "2018-10-28T18:39:09-07:00",
+			"url": "https://micro.brandonbohling.com/2018/10/28/my-son-just.html"
+		},
+		
+		{
 			"id": "http://bbohling.micro.blog/2018/10/22/huh-learn-something.html",
 	      	
 			"content_html": "<p>Huh. Learn something new everyday.</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/d066a34056.jpg\" width=\"600\" height=\"599\" /></p>\n",
@@ -204,14 +212,6 @@
 			"content_html": "<p id=\"main\"> <section id=\"intro\" class=\"main\"> </section> <section id=\"indieauth\" class=\"main\"> <div class=\"spotlight\"> <div class=\"content\"> <header class=\"major\"> </header> <sup><em> Note: If you want to save Indiepaper articles into a new channel in your server, you might need to create that channel in your server before following the steps below. </em></sup> <p> If your website or feeds service supports IndieAuth, you can configure Indiepaper automatically by logging in with your domain. </p> <p> <ol> <li>Enter your Microsub server url into the <a href=\"https://www.indiepaper.io/#indieauth\">IndieAuth</a> form.</li> <li>You will be taken to your Microsub server, which may ask for your personal url to identify you. If this happens, it will take you to your personal website to confirm who you are.</li> <li>Once your identity is confirmed, your Microsub server will show you a confirmation screen to confirm you want to save Indiepaper articles to this Microsub server. If your Microsub server offers different channels it will provide a channel selection on this screen as well.</li> <li>You will be taken to the configuration screen where you can choose to either configure the bookmarklet, the native apps and/or get advanced details for setting up Workflow.</li> </ol> </p> <img width=\"100\" src=\"https://www.indiepaper.io/images/indieauth-logo-color.png\" alt=\"IndieAuth Logo\" /> </div> </div> </section> <section id=\"bookmarklet\" class=\"main\"> </section> <section id=\"macos\" class=\"main\"> <div class=\"spotlight\"> <div class=\"content\"> <header class=\"major\"> </header> <img src=\"https://www.indiepaper.io/images/indiepaper-macos.png\" width=\"400\" /> <p> If you&apos;re a macOS user, you may want to install the Indiepaper macOS application, which will allow you to send links into Indiepaper from any app in macOS using the system-wide sharing service. </p> <p> Simply launch the app, enter your configuration details, and click &quot;Save.&quot; Once configured, a system-wide &quot;Send to Indiepaper&quot; action will be available throughout macOS, including in Safari, and other native applications. </p> <footer class=\"major\"> </footer> </div> </div> </section> <section id=\"ios\" class=\"main\"> <header class=\"major\"> <img src=\"https://www.indiepaper.io/images/workflow-logo.png\" width=\"200\" alt=\"workflow logo\" /> <p> Integration with iOS is provided through <a href=\"http://workflow.is/\">Workflow</a>, an iOS app for automation. Simply download and install the Indiepaper iOS Workflow, configure it within the Workflow app, and you&apos;ll be able to send links to Indiepaper from anywhere in iOS. </p> </header> <footer class=\"major\"> </footer> </section> <section id=\"developers\" class=\"main\"> <header class=\"major\"> <p> How does Indiepaper work, you say? Well, Indiepaper builds on top of <a href=\"https://indieweb.org/\">IndieWeb</a> building blocks, namely <a href=\"https://indieweb.org/Micropub\">micropub</a>. To use Indiepaper from your app, just send an HTTP POST request to Indiepaper with a <code>Authorization</code> header containing a bearer token for your micropub endpoint, and a <code>x-indiepaper-destination</code> header containing the URL for your micropub endpoint. Your POST request should pass the variable &quot;url&quot; as form-encoded data. Optionally, you can pass the variable &quot;category&quot; as form-encoded data to specify a category for the saved content. Note: the &quot;category&quot; parameter can be passed multiple times if you want to specify multiple categories. </p> <p> For example, if you wanted to save <a href=\"https://www.theverge.com/2018/6/27/17509888/oumuamua-interstellar-comet-asteroid-solar-system-trajectory\">this interesting article from The Verge</a> to your read later channel, which you have created in Aperture with an API key of <code>XXXXXX</code>, you would create the request as follows: </p> <pre><code> POST / HTTP/1.1 Host: indiepaper.io Content-Type: application/x-www-form-urlencoded Authorization: Bearer XXXXXX x-indiepaper-destination: [aperture.p3k.io/micropub](https://aperture.p3k.io/micropub) url=https://www.theverge.com/2018/6/27/17509888/oumuamua-interstellar-comet-asteroid-solar-system-trajectory </code></pre> <p> When using Indiepaper&apos;s support for <a href=\"https://indieweb.org/IndieAuth\">IndieAuth</a>, Indiepaper will request the <code>create</code>, <code>update</code>, and <code>save</code> scopes. </p> <p> <a href=\"https://github.com/cleverdevil/indiepaper\">Indiepaper is open source</a>, as is <a href=\"https://github.com/cleverdevil/Indiepaper-macOS\">Indiepaper for macOS</a>. </p> </header> </section> </p>\n",
 			"date_published": "2018-08-07T08:44:01-07:00",
 			"url": "https://micro.brandonbohling.com/2018/08/07/indiepaper.html"
-		},
-		
-		{
-			"id": "http://bbohling.micro.blog/2018/08/07/yes.html",
-	      	
-			"content_html": "<p>Yes!</p>\n\n<p><img src=\"http://micro.brandonbohling.com/uploads/2018/bedb87d12f.jpg\" width=\"337\" height=\"600\" /></p>\n",
-			"date_published": "2018-08-06T21:18:17-07:00",
-			"url": "https://micro.brandonbohling.com/2018/08/06/yes.html"
 		}
 		
 	]
