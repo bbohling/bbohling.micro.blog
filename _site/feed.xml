@@ -4,8 +4,17 @@
     <title>Brandon Bohling</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/bbohling&quot;&gt;@bbohling on Micro.blog&lt;/a&gt;.</description>
     <link>https://micro.brandonbohling.com/</link>
-    <pubDate>Mon, 22 Oct 2018 15:06:27 -0700</pubDate>
-    <lastBuildDate>Mon, 22 Oct 2018 15:06:27 -0700</lastBuildDate>
+    <pubDate>Sun, 28 Oct 2018 18:39:13 -0700</pubDate>
+    <lastBuildDate>Sun, 28 Oct 2018 18:39:13 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;My son just made me so proud…upon finishing an episode of The Simpsons he said, “oh man, Simpsons are so good on so many levels.”&lt;/p&gt;
+</description>
+        <pubDate>Sun, 28 Oct 2018 18:39:09 -0700</pubDate>
+        <link>https://micro.brandonbohling.com/2018/10/28/my-son-just.html</link>
+        <guid isPermaLink="true">http://bbohling.micro.blog/2018/10/29/my-son-just.html</guid>
+      </item>
     
       <item>
       	
@@ -559,17 +568,6 @@ How long has Google Maps had the extremely useful hiking trail info!?&lt;/p&gt;
         <pubDate>Sun, 10 Jun 2018 22:08:51 -0700</pubDate>
         <link>https://micro.brandonbohling.com/2018/06/10/omgi-spent-hours.html</link>
         <guid isPermaLink="true">http://bbohling.micro.blog/2018/06/11/omgi-spent-hours.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;There’s a lot of techie folks here…&lt;/p&gt;
-
-&lt;p&gt;Anyone have a good example of using Terraform to create a DigitalOcean droplet with nginx, mongo, node, new user, ssh key, firewall, etc.? Of course I have come across plenty of tutorials, but I haven’t liked any of their implementations.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 10 Jun 2018 11:56:27 -0700</pubDate>
-        <link>https://micro.brandonbohling.com/2018/06/10/theres-a-lot.html</link>
-        <guid isPermaLink="true">http://bbohling.micro.blog/2018/06/10/theres-a-lot.html</guid>
       </item>
     
   </channel>
