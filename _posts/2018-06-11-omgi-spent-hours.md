@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-10 22:08:51 -0700
 guid: http://bbohling.micro.blog/2018/06/11/omgi-spent-hours.html
 ---
