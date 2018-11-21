@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://bbohling.micro.blog/uploads/2017/2be5c2e5d3.jpg
 date: 2017-08-05 09:56:21 -0700
 guid: http://bbohling.micro.blog/2017/08/05/so-envious-of.html
 ---
