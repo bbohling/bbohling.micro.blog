@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-10 11:56:27 -0700
 guid: http://bbohling.micro.blog/2018/06/10/theres-a-lot.html
 ---
