@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-09-26 22:53:14 -0700
 guid: http://bbohling.micro.blog/2017/09/27/decent-coffee-will.html
 ---
