@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.brandonbohling.com/uploads/2018/fe5e80e0e0.jpg
 date: 2018-06-15 09:41:23 -0700
 guid: http://bbohling.micro.blog/2018/06/15/last-walk-through.html
 ---
