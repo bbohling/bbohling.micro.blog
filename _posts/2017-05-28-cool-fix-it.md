@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://bbohling.micro.blog/uploads/2017/947956e5ff.jpg
 date: 2017-05-28 11:28:19 -0700
 guid: http://bbohling.micro.blog/2017/05/28/cool-fix-it.html
 ---
