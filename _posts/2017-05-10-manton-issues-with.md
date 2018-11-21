@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-05-10 11:17:21 -0700
 guid: http://bbohling.micro.blog/2017/05/10/manton-issues-with.html
 ---
