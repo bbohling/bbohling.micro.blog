@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://bbohling.micro.blog/uploads/2017/09b39f0fc2.jpg
 date: 2017-08-27 10:59:15 -0700
 guid: http://bbohling.micro.blog/2017/08/27/todays-work-was.html
 ---
