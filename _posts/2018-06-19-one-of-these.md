@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.brandonbohling.com/uploads/2018/422e810968.jpg
 date: 2018-06-18 22:45:07 -0700
 guid: http://bbohling.micro.blog/2018/06/19/one-of-these.html
 ---
