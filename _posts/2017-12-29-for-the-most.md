@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-12-28 20:52:42 -0700
 guid: http://bbohling.micro.blog/2017/12/29/for-the-most.html
 ---
