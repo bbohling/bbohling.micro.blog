@@ -3,6 +3,7 @@ layout: post
 title: "Vegan Recipes That Don’t Suck"
 microblog: false
 audio: 
+photo: http://micro.brandonbohling.com/uploads/2018/9f0ba9db21.jpg
 date: 2018-06-02 13:35:15 -0700
 guid: http://bbohling.micro.blog/2018/06/02/vegan-recipes-that.html
 ---
