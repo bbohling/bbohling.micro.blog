@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-06-13 12:36:03 -0700
 guid: http://bbohling.micro.blog/2017/06/13/manton-this-post.html
 ---
