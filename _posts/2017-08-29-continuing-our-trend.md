@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://bbohling.micro.blog/uploads/2017/19fcee494e.jpg
 date: 2017-08-28 17:18:46 -0700
 guid: http://bbohling.micro.blog/2017/08/29/continuing-our-trend.html
 ---
