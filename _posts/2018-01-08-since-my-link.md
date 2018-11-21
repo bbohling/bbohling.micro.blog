@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-01-08 14:12:13 -0700
 guid: http://bbohling.micro.blog/2018/01/08/since-my-link.html
 ---
