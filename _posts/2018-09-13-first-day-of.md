@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.brandonbohling.com/uploads/2018/907fa2cdd1.jpg
 date: 2018-09-13 07:01:59 -0700
 guid: http://bbohling.micro.blog/2018/09/13/first-day-of.html
 ---
