@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.brandonbohling.com/uploads/2018/2148d3b5c5.jpg
 date: 2018-06-16 07:18:52 -0700
 guid: http://bbohling.micro.blog/2018/06/16/home-from-the.html
 ---
