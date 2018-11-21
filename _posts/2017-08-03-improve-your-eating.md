@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-08-02 18:07:56 -0700
 guid: http://bbohling.micro.blog/2017/08/03/improve-your-eating.html
 ---
