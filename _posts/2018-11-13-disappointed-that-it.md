@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-13 15:19:13 -0700
 guid: http://bbohling.micro.blog/2018/11/13/disappointed-that-it.html
 ---
