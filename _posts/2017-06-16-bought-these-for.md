@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://bbohling.micro.blog/uploads/2017/db787920d4.jpg
 date: 2017-06-16 06:58:16 -0700
 guid: http://bbohling.micro.blog/2017/06/16/bought-these-for.html
 ---
