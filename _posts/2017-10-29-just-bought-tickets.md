@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-10-29 08:29:47 -0700
 guid: http://bbohling.micro.blog/2017/10/29/just-bought-tickets.html
 ---
