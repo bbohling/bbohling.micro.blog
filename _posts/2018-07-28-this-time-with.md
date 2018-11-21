@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.brandonbohling.com/uploads/2018/017244cae0.jpg
 date: 2018-07-28 07:28:56 -0700
 guid: http://bbohling.micro.blog/2018/07/28/this-time-with.html
 ---
