@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://bbohling.micro.blog/uploads/2017/72144f5ee3.jpg
 date: 2017-06-21 08:51:40 -0700
 guid: http://bbohling.micro.blog/2017/06/21/hexs-raven-medium.html
 ---
