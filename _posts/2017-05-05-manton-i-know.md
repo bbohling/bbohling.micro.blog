@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://bbohling.micro.blog/uploads/2017/e59cad5274.jpg
 date: 2017-05-05 08:55:11 -0700
 guid: http://bbohling.micro.blog/2017/05/05/manton-i-know.html
 ---
