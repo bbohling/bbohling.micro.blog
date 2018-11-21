@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-28 18:39:09 -0700
 guid: http://bbohling.micro.blog/2018/10/29/my-son-just.html
 ---
