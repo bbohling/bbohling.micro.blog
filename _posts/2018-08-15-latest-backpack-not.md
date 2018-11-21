@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-15 09:43:33 -0700
 guid: http://bbohling.micro.blog/2018/08/15/latest-backpack-not.html
 ---
