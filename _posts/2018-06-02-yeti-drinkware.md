@@ -3,6 +3,7 @@ layout: post
 title: "Yeti Drinkware"
 microblog: false
 audio: 
+photo: http://micro.brandonbohling.com/uploads/2018/9825d5ea10.jpg
 date: 2018-06-01 18:26:55 -0700
 guid: http://bbohling.micro.blog/2018/06/02/yeti-drinkware.html
 ---
