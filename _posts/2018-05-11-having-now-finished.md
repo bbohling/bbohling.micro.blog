@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-10 21:24:02 -0700
 guid: http://bbohling.micro.blog/2018/05/11/having-now-finished.html
 ---
