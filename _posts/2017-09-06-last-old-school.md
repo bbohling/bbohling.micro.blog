@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://bbohling.micro.blog/uploads/2017/29af784a27.jpg
 date: 2017-09-06 11:08:57 -0700
 guid: http://bbohling.micro.blog/2017/09/06/last-old-school.html
 ---
