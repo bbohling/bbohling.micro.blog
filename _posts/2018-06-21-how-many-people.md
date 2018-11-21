@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-20 22:25:36 -0700
 guid: http://bbohling.micro.blog/2018/06/21/how-many-people.html
 ---
