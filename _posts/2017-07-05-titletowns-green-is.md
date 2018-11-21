@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://bbohling.micro.blog/uploads/2017/9d308ece05.jpg
 date: 2017-07-05 13:43:23 -0700
 guid: http://bbohling.micro.blog/2017/07/05/titletowns-green-is.html
 ---
