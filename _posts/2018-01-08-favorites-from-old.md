@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-01-08 14:06:43 -0700
 guid: http://bbohling.micro.blog/2018/01/08/favorites-from-old.html
 ---
