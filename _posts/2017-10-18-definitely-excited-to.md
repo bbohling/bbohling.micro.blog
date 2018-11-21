@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-10-18 11:18:32 -0700
 guid: http://bbohling.micro.blog/2017/10/18/definitely-excited-to.html
 ---
