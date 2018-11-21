@@ -3,6 +3,7 @@ layout: post
 title: "Photo Story Using Sunlit (Test Post)"
 microblog: false
 audio: 
+photo: http://micro.brandonbohling.com/uploads/2018/3dcaaf9518.jpg
 date: 2018-01-24 19:35:54 -0700
 guid: http://bbohling.micro.blog/2018/01/25/photo-story-using.html
 ---
