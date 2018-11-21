@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-30 14:48:06 -0700
 guid: http://bbohling.micro.blog/2018/06/30/is-it-normal.html
 ---
