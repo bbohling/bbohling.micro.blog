@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-10 07:47:41 -0700
 guid: http://bbohling.micro.blog/2018/04/10/speaking-of-games.html
 ---
