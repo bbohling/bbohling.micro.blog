@@ -3,6 +3,7 @@ layout: post
 title: "Oregon Rainbows"
 microblog: false
 audio: 
+photo: http://micro.brandonbohling.com/uploads/2018/27ee7e289e.jpg
 date: 2018-04-14 08:35:24 -0700
 guid: http://bbohling.micro.blog/2018/04/14/oregon-rainbows.html
 ---
