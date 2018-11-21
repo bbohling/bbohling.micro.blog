@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://bbohling.micro.blog/uploads/2017/6cc5067596.jpg
 date: 2017-05-21 08:06:51 -0700
 guid: http://bbohling.micro.blog/2017/05/21/this-counts-as.html
 ---
