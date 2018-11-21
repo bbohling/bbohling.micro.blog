@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://micro.brandonbohling.com/uploads/2018/8928ca78eb.jpg
 date: 2018-10-31 18:46:13 -0700
 guid: http://bbohling.micro.blog/2018/11/01/i-think-our.html
 ---
