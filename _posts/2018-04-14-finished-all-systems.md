@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-14 09:03:15 -0700
 guid: http://bbohling.micro.blog/2018/04/14/finished-all-systems.html
 ---
