@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://bbohling.micro.blog/uploads/2017/6634750fd3.jpg
 date: 2017-05-03 14:33:35 -0700
 guid: http://bbohling.micro.blog/2017/05/03/yellow-lake-blue.html
 ---
