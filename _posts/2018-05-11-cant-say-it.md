@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.brandonbohling.com/uploads/2018/7d1e4187a0.jpg
 date: 2018-05-10 21:17:24 -0700
 guid: http://bbohling.micro.blog/2018/05/11/cant-say-it.html
 ---
