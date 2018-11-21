@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-05-25 13:11:26 -0700
 guid: http://bbohling.micro.blog/2017/05/25/in-anticipation-of.html
 ---
