@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-17 09:44:31 -0700
 guid: http://bbohling.micro.blog/2018/07/17/have-to-immerse.html
 ---
