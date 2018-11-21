@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.brandonbohling.com/uploads/2018/e5691e6f65.jpg
 date: 2018-09-01 17:17:23 -0700
 guid: http://bbohling.micro.blog/2018/09/02/ruddickwood-is-a.html
 ---
