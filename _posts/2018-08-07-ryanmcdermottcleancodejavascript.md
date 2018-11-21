@@ -3,6 +3,7 @@ layout: post
 title: "ryanmcdermott/clean-code-javascript"
 microblog: false
 audio: 
+photo: 
 date: 2018-08-07 08:47:13 -0700
 guid: http://bbohling.micro.blog/2018/08/07/ryanmcdermottcleancodejavascript.html
 ---
