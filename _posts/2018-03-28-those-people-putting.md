@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-28 07:36:08 -0700
 guid: http://bbohling.micro.blog/2018/03/28/those-people-putting.html
 ---
