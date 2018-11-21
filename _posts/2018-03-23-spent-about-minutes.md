@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-23 07:03:54 -0700
 guid: http://bbohling.micro.blog/2018/03/23/spent-about-minutes.html
 ---
