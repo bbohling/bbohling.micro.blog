@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.brandonbohling.com/uploads/2018/564fce8ee9.jpg
 date: 2018-07-16 07:13:45 -0700
 guid: http://bbohling.micro.blog/2018/07/16/obviously-this-bike.html
 ---
