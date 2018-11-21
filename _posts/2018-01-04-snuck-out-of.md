@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.brandonbohling.com/uploads/2018/cb8cad5df6.jpg
 date: 2018-01-03 20:01:11 -0700
 guid: http://bbohling.micro.blog/2018/01/04/snuck-out-of.html
 ---
