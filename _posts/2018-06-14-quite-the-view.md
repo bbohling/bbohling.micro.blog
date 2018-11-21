@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.brandonbohling.com/uploads/2018/e75a6a3ac3.jpg
 date: 2018-06-13 17:37:16 -0700
 guid: http://bbohling.micro.blog/2018/06/14/quite-the-view.html
 ---
