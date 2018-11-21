@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.brandonbohling.com/uploads/2018/5e766ebd7b.jpg
 date: 2018-03-24 11:01:39 -0700
 guid: http://bbohling.micro.blog/2018/03/24/bloody-maria-to.html
 ---
