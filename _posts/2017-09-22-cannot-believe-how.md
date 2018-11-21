@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-09-22 12:47:12 -0700
 guid: http://bbohling.micro.blog/2017/09/22/cannot-believe-how.html
 ---
