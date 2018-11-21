@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.brandonbohling.com/uploads/2018/69e73e10e4.jpg
 date: 2018-06-29 22:28:10 -0700
 guid: http://bbohling.micro.blog/2018/06/30/ellies-new-ride.html
 ---
