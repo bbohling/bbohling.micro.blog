@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.brandonbohling.com/uploads/2018/fefdb31930.jpg
 date: 2018-05-07 10:54:20 -0700
 guid: http://bbohling.micro.blog/2018/05/07/day-friday-cycling.html
 ---
