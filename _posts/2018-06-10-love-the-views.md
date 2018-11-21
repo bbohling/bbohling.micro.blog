@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.brandonbohling.com/uploads/2018/c1ba1f8512.jpg
 date: 2018-06-09 17:06:41 -0700
 guid: http://bbohling.micro.blog/2018/06/10/love-the-views.html
 ---
