@@ -3,6 +3,7 @@ layout: post
 title: "The Comic Filter on Newer iPhones"
 microblog: false
 audio: 
+photo: 
 date: 2018-10-16 07:01:20 -0700
 guid: http://bbohling.micro.blog/2018/10/16/the-comic-filter.html
 ---
