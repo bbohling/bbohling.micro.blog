@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.brandonbohling.com/uploads/2018/68c96962bb.jpg
 date: 2018-06-13 07:59:13 -0700
 guid: http://bbohling.micro.blog/2018/06/13/life-at-the.html
 ---
