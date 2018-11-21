@@ -3,6 +3,7 @@ layout: post
 title: "Apple: the Interesting and Frustrating"
 microblog: false
 audio: 
+photo: 
 date: 2018-02-16 08:59:55 -0700
 guid: http://bbohling.micro.blog/2018/02/16/apple-the-interesting.html
 ---
