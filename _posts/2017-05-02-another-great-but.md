@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-05-02 14:44:40 -0700
 guid: http://bbohling.micro.blog/2017/05/02/another-great-but.html
 ---
