@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://bbohling.micro.blog/uploads/2017/2c6496d7fb.jpg
 date: 2017-08-30 12:27:10 -0700
 guid: http://bbohling.micro.blog/2017/08/30/cold-espresso-cashew.html
 ---
