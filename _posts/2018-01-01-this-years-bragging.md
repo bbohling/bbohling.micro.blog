@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.brandonbohling.com/uploads/2018/3dfbf8d42d.jpg
 date: 2017-12-31 20:41:49 -0700
 guid: http://bbohling.micro.blog/2018/01/01/this-years-bragging.html
 ---
