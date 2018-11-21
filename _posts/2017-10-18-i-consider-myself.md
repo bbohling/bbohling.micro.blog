@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.brandonbohling.com/uploads/2017/4a160ac2d7.jpg
 date: 2017-10-17 19:59:39 -0700
 guid: http://bbohling.micro.blog/2017/10/18/i-consider-myself.html
 ---
