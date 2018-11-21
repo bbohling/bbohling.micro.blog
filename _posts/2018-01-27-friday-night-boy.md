@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-01-26 18:26:31 -0700
 guid: http://bbohling.micro.blog/2018/01/27/friday-night-boy.html
 ---
