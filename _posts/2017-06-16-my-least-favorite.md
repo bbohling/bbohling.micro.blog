@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://bbohling.micro.blog/uploads/2017/5cafd07c11.jpg
 date: 2017-06-16 08:28:08 -0700
 guid: http://bbohling.micro.blog/2017/06/16/my-least-favorite.html
 ---
