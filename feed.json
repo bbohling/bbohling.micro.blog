@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://bbohling.micro.blog/2020/12/16/i-love-fracture.html",
+				
+				"content_html": "<p>I love <a href=\"https://fractureme.com\">fracture</a> prints. I have many hanging up in our house. Until this sunset shot though they were all from my Canon 5D Mark IV or DJI Mavic 2 Pro. The sunset shot was taken with an iPhone XS back in July 2019, but looks beautiful in a 22”x29” print. So surprised.</p>\n\n<p><img src=\"uploads/2020/f70b82fa4b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "I love [fracture](https://fractureme.com) prints. I have many hanging up in our house. Until this sunset shot though they were all from my Canon 5D Mark IV or DJI Mavic 2 Pro. The sunset shot was taken with an iPhone XS back in July 2019, but looks beautiful in a 22”x29” print. So surprised.\n\n<img src=\"uploads/2020/f70b82fa4b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-12-16T11:41:41-07:00",
+				"url": "https://micro.brandonbohling.com/2020/12/16/i-love-fracture.html"
+			},
+			{
+				"id": "http://bbohling.micro.blog/2020/12/05/from-todays-ride.html",
+				
+				"content_html": "<p>From today’s ride 🚴‍♂️</p>\n\n<p><img src=\"uploads/2020/2e517d4596.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "From today’s ride 🚴‍♂️\n\n<img src=\"uploads/2020/2e517d4596.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2020-12-05T14:57:39-07:00",
+				"url": "https://micro.brandonbohling.com/2020/12/05/from-todays-ride.html"
+			},
+			{
 				"id": "http://bbohling.micro.blog/2020/12/01/lego-star-wars.html",
 				
 				"content_html": "<p>Lego Star Wars Advent 2020 - Day 1</p>\n\n<p><img src=\"uploads/2020/d8692445c1.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
