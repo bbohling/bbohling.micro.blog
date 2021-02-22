@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://bbohling.micro.blog/2021/02/22/in-typical-fashion.html",
+				
+				"content_html": "<p>In typical fashion <a href=\"https://micro.blog/siracusa\">@siracusa</a> nails it.</p>\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://micro.brandonbohling.com/uploads/2021/655645a9d2.mov\" width=\"360\" height=\"640\" poster=\"https://micro.brandonbohling.com/uploads/2021/b96d0922ec.png\" preload=\"none\"></video>\n",
+				"content_text": "In typical fashion [@siracusa](https://micro.blog/siracusa) nails it. \n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://micro.brandonbohling.com/uploads/2021/655645a9d2.mov\" width=\"360\" height=\"640\" poster=\"https://micro.brandonbohling.com/uploads/2021/b96d0922ec.png\" preload=\"none\"></video>\n",
+				"date_published": "2021-02-22T08:07:01-08:00",
+				"url": "https://micro.brandonbohling.com/2021/02/22/in-typical-fashion.html"
+			},
+			{
 				"id": "http://bbohling.micro.blog/2021/01/26/this-pretty-much.html",
 				
 				"content_html": "<p>This pretty much sums up why people are shocked that I’m actually 50 years old&hellip;</p>\n\n<p><a href=\"https://vimeo.com/505015370\">vimeo.com/505015370</a></p>\n",
