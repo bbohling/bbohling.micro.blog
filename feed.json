@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://bbohling.micro.blog/2023/08/23/spent-some-time.html",
+				
+				"content_html": "<p>Spent some time this morning revisiting CSS-in-JSS options. Tired of the overhead (and limitations) of CSS modules in React apps which often leads me to use inline styles which makes me sick to my stomach. :) What are others doing in this space?</p>\n",
+				"content_text": "Spent some time this morning revisiting CSS-in-JSS options. Tired of the overhead (and limitations) of CSS modules in React apps which often leads me to use inline styles which makes me sick to my stomach. :) What are others doing in this space?\n",
+				"date_published": "2023-08-23T08:59:24-07:00",
+				"url": "https://micro.brandonbohling.com/2023/08/23/spent-some-time.html"
+			},
+			{
 				"id": "http://bbohling.micro.blog/2023/08/17/the-readwise-reader.html",
 				
 				"content_html": "<p>The <a href=\"https://readwise.io/read\">Readwise Reader</a> web app is a rare example where it is superior to the iOS/iPadOS version. What are some other examples?</p>\n",
@@ -42,7 +50,7 @@
 				"id": "http://bbohling.micro.blog/2023/07/10/joining-the-post.html",
 				
 				"content_html": "<p>Joining the “post first downloads” party on App Store 15th.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Joining the “post first downloads” party on App Store 15th.\n\n<img src=\"uploads/2023/image.jpg\" width=\"338\" height=\"600\" alt=\"Screenshot of first apps installed: iTunes Remote, WeatherBug, New York Times, Pandora, AstroTilt, Evernote, Texas Hold’em, and Bloomberg \">\n",
+				"content_text": "Joining the “post first downloads” party on App Store 15th.\n\n<img src=\"https://cdn.uploads.micro.blog/691/2023/image.jpg\" width=\"338\" height=\"600\" alt=\"Screenshot of first apps installed: iTunes Remote, WeatherBug, New York Times, Pandora, AstroTilt, Evernote, Texas Hold’em, and Bloomberg \">\n",
 				"date_published": "2023-07-10T22:02:19-07:00",
 				"url": "https://micro.brandonbohling.com/2023/07/10/joining-the-post.html"
 			},
