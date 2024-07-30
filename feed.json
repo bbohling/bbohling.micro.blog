@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://bbohling.micro.blog/2024/07/30/cant-remember-the.html",
+				
+				"content_html": "<p>Can&rsquo;t remember the last time I was so nervous to &ldquo;deploy&rdquo; a change as updating MX records. Just successfully (I believe) moved off of Google onto Fastmail.</p>\n",
+				"content_text": "Can't remember the last time I was so nervous to \"deploy\" a change as updating MX records. Just successfully (I believe) moved off of Google onto Fastmail.\n",
+				"date_published": "2024-07-30T14:46:50-07:00",
+				"url": "https://micro.brandonbohling.com/2024/07/30/cant-remember-the.html"
+			},
+			{
 				"id": "http://bbohling.micro.blog/2024/07/14/yes-that-is.html",
 				
 				"content_html": "<p>Yes that is doggie drool</p>\n<!-- raw HTML omitted -->\n",
