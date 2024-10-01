@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://bbohling.micro.blog/2024/10/01/my-teenage-son.html",
+				
+				"content_html": "<p>My teenage son released his first game on the App Store: <a href=\"https://apps.apple.com/us/app/jem-junction/id6602889291\">Jem Junction</a>. He has really enjoyed learning how to develop a game. I cannot believe the self-discipline he has demonstrated. He definitely got that from his mother. :)</p>\n",
+				"content_text": "My teenage son released his first game on the App Store: [Jem Junction](https://apps.apple.com/us/app/jem-junction/id6602889291). He has really enjoyed learning how to develop a game. I cannot believe the self-discipline he has demonstrated. He definitely got that from his mother. :) \n",
+				"date_published": "2024-10-01T10:31:02-07:00",
+				"url": "https://micro.brandonbohling.com/2024/10/01/my-teenage-son.html"
+			},
+			{
 				"id": "http://bbohling.micro.blog/2024/07/30/cant-remember-the.html",
 				
 				"content_html": "<p>Can&rsquo;t remember the last time I was so nervous to &ldquo;deploy&rdquo; a change as updating MX records. Just successfully (I believe) moved off of Google onto Fastmail.</p>\n",
